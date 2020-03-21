@@ -2613,6 +2613,10 @@ input, select, textarea {
 				width: 100%;
 			}
 
+		.image.profile-pic{
+			border-radius: 50%;
+			width: 150px;
+		}
 /* List */
 
 	ol {
