@@ -2892,6 +2892,10 @@ input, select, textarea {
 		line-height: 1.5em;
 	}
 
+	header.image-header h1 {
+		display: none;
+	}
+
 /* Split */
 
 	.split {
@@ -3256,7 +3260,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #b74e91;
+			background-color: #b74e91bb;
 		}
 
 		.wrapper.style3-alt {
