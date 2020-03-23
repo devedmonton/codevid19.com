@@ -39,6 +39,9 @@
 			border-bottom-color: transparent;
 			color: _palette(fg-bold);
 		}
+		&.sponsor-link {
+			border-bottom: none;
+		}
 	}
 
 	strong, b {
