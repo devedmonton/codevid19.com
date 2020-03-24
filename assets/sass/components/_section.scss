@@ -10,6 +10,12 @@
 		&.special {
 			text-align: center;
 		}
+
+		&.sponsor-logo{
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
 	}
 
 	header {

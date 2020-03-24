@@ -2135,6 +2135,9 @@ input[type=radio] + label:before {
 .image.bronze-logo {
   height: 150px;
 }
+.image.bronze-logo.scale-down {
+  height: 60px;
+}
 .image.silver-logo {
   height: 250px;
 }
@@ -2351,6 +2354,11 @@ ul.menu > li:first-child {
 /* Section/Article */
 section.special, article.special {
   text-align: center;
+}
+section.sponsor-logo, article.sponsor-logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 header p {
