@@ -2130,16 +2130,16 @@ input[type=radio] + label:before {
 }
 .image.profile-pic {
   border-radius: 50%;
-  width: 150px;
+  height: 150px;
 }
 .image.bronze-logo {
-  width: 350px;
+  height: 150px;
 }
 .image.silver-logo {
-  width: 450px;
+  height: 250px;
 }
 .image.gold-logo {
-  width: 550px;
+  height: 350px;
 }
 
 /* List */
