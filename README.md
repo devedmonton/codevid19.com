@@ -13,3 +13,11 @@ From this point you can build and serve the site using:
 This will serve the site at:
 
     http://localhost:4000
+
+## Contributing
+
+Fork and work in your own private branch. We recommend fetching and rebasing often from `upstream`. Submit a PR.
+
+This project uses [Prettier](https://prettier.io/) to enforce a consistent code style. If you are doing work in HTML/SASS/JS, ensure you have it installed and it's highly-recommended you have it automatically run before submitting your PRs.
+
+Additionally, ensure line-endings pushed to `origin` remain `LF` and not forced to `CRLF`. For users on Windows, make sure your [core.autocrlf](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration#_code_core_autocrlf_code) is configured properly. For Linux/macOS users, ensure you are not forcing line endings to be `CRLF`.
