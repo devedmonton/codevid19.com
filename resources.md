@@ -7,12 +7,12 @@ title: CODEVID-19 Resources & Offers
 
 # Resources
 
-* [Resource 1](#)
-* [Resource 2](#)
-* [Resource 3](#)
+- [Resource 1](#)
+- [Resource 2](#)
+- [Resource 3](#)
 
 # Offers
 
-* [Offer 1](#)
-* [Offer 2](#)
-* [Offer 3](#)
+- [Offer 1](#)
+- [Offer 2](#)
+- [Offer 3](#)
