@@ -11,6 +11,12 @@ article {
   &.special {
     text-align: center;
   }
+
+  &.sponsor-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 }
 
 header {
@@ -39,7 +45,6 @@ header {
     margin-top: (_size(element-margin) * -0.3);
     line-height: 1.5em;
   }
-
   &.image-header h1 {
     display: none;
   }

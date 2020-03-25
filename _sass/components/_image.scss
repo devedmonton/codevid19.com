@@ -65,6 +65,10 @@
 
   &.bronze-logo {
     height: 150px;
+
+    &.scale-down {
+      height: 60px;
+    }
   }
 
   &.silver-logo {
