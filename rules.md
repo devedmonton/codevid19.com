@@ -71,7 +71,8 @@ Smaller, virtual prizes, mostly for bragging rights
 *   Submissions close at the end of April (date TBD), 23:59 UTC
 *   Prize category/categories and judging criteria are TBD
 *   Judging begins May 1st and concludes when all entries have been evaluated
-*   > Participants understand that this is a charitable event organized by volunteers with limited resources and time. As such, participants understand that a best effort will be made to ensure fairness and equality in the judging and awarding of prizes. Participants accept that prizes will be awarded at the discretion of the judges, sponsors, and organizers. By participating all participants agree to accept the decisions of the judges, sponsors and organizers, and waive all rights to pursue legal or other recourse against the event, organizers, judges, sponsors, partners, or other parties should a dispute arise.
+
+> Participants understand that this is a charitable event organized by volunteers with limited resources and time. As such, participants understand that a best effort will be made to ensure fairness and equality in the judging and awarding of prizes. Participants accept that prizes will be awarded at the discretion of the judges, sponsors, and organizers. By participating all participants agree to accept the decisions of the judges, sponsors and organizers, and waive all rights to pursue legal or other recourse against the event, organizers, judges, sponsors, partners, or other parties should a dispute arise.
     
 
 ### Frequently Asked Questions (FAQ)
