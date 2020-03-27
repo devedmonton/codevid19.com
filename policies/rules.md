@@ -86,7 +86,7 @@ Teams of up to 5 people are welcome to participate. For legal reasons we require
 
 Prizes of monetary value will be distributed to winning teams electronically. All other prizes will be disttributed in the manner deamed most appropriate by organizers and sponsors.
 
-Some sponsors may be given the opportunity award prizes during the course of the competition. These prizes will be communicated and awarded by sponsors in the manner they sit fit, and subject to the rules and veto of the event organizers.
+Some sponsors may be given the opportunity award prizes during the course of the competition. These prizes will be communicated and awarded by sponsors in the manner they see fit, and subject to the rules and veto of the event organizers.
 
 ### Judging
 
