@@ -3,7 +3,13 @@ layout: default
 title: Submitting Your Project To CODEVID-19
 ---
 
-### Submissions
+## Weekly Prize Submission
+
+TODO
+
+## Final Prize Submission
+
+TODO
 
 #### General
 
