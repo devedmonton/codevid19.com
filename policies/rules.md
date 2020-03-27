@@ -76,8 +76,6 @@ Therefore we will be judging projects on three main criteria:
 2. **Accessibility** - How easily are people are able to access this project?
 3. **Impact** - How many people have benefitted from this project?
 
-Technilogical novelty and achievement, while impressive, won't be the determining factors when evaluating your project so remember to keep it simple!
-
 ### Your Team
 
 Teams of up to 5 people are welcome to participate. For legal reasons we require that all team members be 13 years or older as of May 16th at 00:00 UTC if they wish to participate.
