@@ -42,6 +42,8 @@ We're passionate about improving the quality of life for people during and after
 
 First responders, healthcare workers and emergency response managers are on the front lines of the pandemic. How can we help to work more effectively, safely, and quickly?
 
+Examples of apps in this catergory might include services to crowd source reporting of crisis information, using machine learning and data science to quickly identify problems to be addressed, or allow more efficient distribution of health care and emergency resources.
+
 #### Understanding The Pandemic
 
 How can we better understand the current state of the pandemic and make informed decisions about the future? How do we evaluate and trust the information around us?
@@ -54,11 +56,15 @@ From working at home, assisting the elderly and at need, to entertaining and edu
 
 How do we limit the impact and costs associated with Social Isolation and Distancing, and ensure that we're ready to pick up where we left off when we come back together?
 
+Apps in this category might help connect people together, indentify people in distress, facilitate remote working, on assist parents and educators continue classes.
+
 #### Scarcity & The Economy
 
 Economics is the study of scarcity, and during the pandemic it's a struggle to understand the situation and how to most effectively use limited resources to maximum effect.
 
 How we better understand and manage the economic impacts, and use our resources most effectively to weather the largest economic change in modern history.
+
+App in this category could include helping understand and manage changes in the work force, evaluate and track the effectiveness of government interventions, or better distribute scarce resources.
 
 ### Your Solution
 
