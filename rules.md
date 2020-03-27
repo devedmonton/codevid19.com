@@ -80,6 +80,14 @@ Prizes of monetary value will be distributed to winning teams electronically. Al
 
 Some sponsors may be given the opportunity award prizes during the course of the competition. These prizes will be communicated and awarded by sponsors in the manner they sit fit, and subject to the rules and veto of the event organizers.
 
+### Judging
+
+During the final prize round a team of expert judges will review each entry. Teams entering their projects for prizes will be expected to be available to answer judges questions via email, and if possible in person.
+
+Teams may also be asked to confidentially share source code and project details with judges so that they might better evaluate a projects merits.
+
+Failure to communicate or supply judges with access to a project could impact a projects success in the competition.
+
 ### Intellectual Property
 
 All teams will continue to own the intellectual rights to their work and projects during and after this competition.
