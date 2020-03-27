@@ -42,7 +42,7 @@ Absolutely! We ask that teams who want to compete for prizing to submit their pr
 
 #### What's the cost of entry?
 
-This hackathon is free to enter and particpate in! We thank our sponsors for supporting our endeavours.
+This hackathon is free to enter and participate in! We thank our sponsors for supporting our endeavours.
 
 #### Okay, so what's the catch?
 
