@@ -25,9 +25,11 @@
       property="og:description"
       content="{{ page.description | default: site.description }}"
     />
-    <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" />
     <noscript>
-      <link rel="stylesheet" href="assets/css/noscript.css"
+      <link
+        rel="stylesheet"
+        href="{{ '/assets/css/noscript.css' | relative_url }}"
     /></noscript>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script
@@ -57,18 +59,18 @@
             <a href="https://devedmonton.com">DES</a> with &hearts;.
           </li>
           <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-          <li><a href="./policies/privacy-policy.html">Privacy Policy</a></li>
+          <li><a href="{{ '/policies/privacy-policy.html' | relative_url }}">Privacy Policy</a></li>
         </ul>
       </div>
     </footer>
 
     <!-- Scripts -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/jquery.scrollex.min.js"></script>
-    <script src="assets/js/jquery.scrolly.min.js"></script>
-    <script src="assets/js/browser.min.js"></script>
-    <script src="assets/js/breakpoints.min.js"></script>
-    <script src="assets/js/util.js"></script>
-    <script src="assets/js/main.js"></script>
+    <script src="{{ '/assets/js/jquery.min.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/jquery.scrollex.min.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/jquery.scrolly.min.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/browser.min.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/breakpoints.min.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/util.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
   </body>
 </html>
