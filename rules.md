@@ -34,7 +34,7 @@ Judging begins once project submissions close, and we're aiming to complete it w
 We're passionate about improving the quality of life for people during and after the COVID-19 Pandemic by addressing the following problems:
 
 1. Supporting Crisis Response
-2. (Mis)Understanding The Pandemic
+2. Understanding The Pandemic
 3. Social Distancing & Isolation 
 4. Scarcity & The Economy
 
@@ -42,9 +42,11 @@ We're passionate about improving the quality of life for people during and after
 
 First responders, healthcare workers and emergency response managers are on the front lines of the pandemic. How can we help to work more effectively, safely, and quickly?
 
-#### (Mis)Understanding The Pandemic
+#### Understanding The Pandemic
 
 How can we better understand the current state of the pandemic and make informed decisions about the future? How do we evaluate and trust the information around us?
+
+An app in this category might help provide verified answers to questions about COVID-19 and the pandemic, predict if the curve is being flattened, or help people report and filter out mis-information.
 
 #### Social Distancing & Isolation
 
