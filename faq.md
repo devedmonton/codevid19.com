@@ -7,7 +7,7 @@ title: Frequently Asked Questions (FAQ)
 
 Up to 5 people, if you're looking to submit your project for the weekly and/or final prizes. Otherwise, we don't really mind if you go over, so as long as your project sits out from prizing considerations!
 
-#### Is there an minimum age requirement?
+#### Is there a minimum age requirement?
 
 Yes, you must be **13 years of age or older** at the time of entry. Being a global hackathon, we have to comply with many policies around the world, such as the FTC's [COPPA](https://www.ftc.gov/tips-advice/business-center/guidance/childrens-online-privacy-protection-rule-six-step-compliance).
 
