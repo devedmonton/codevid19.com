@@ -3,9 +3,9 @@ layout: default
 title: CODEVID-19 Rules
 ---
 
-## Abstract
+## Summary
 
-The CODEVID-19 Hackathon is divided into two phases. Weekly prizes are awarded until April 30th, when judging starts. Following judging final prizes are awarded.
+The CODEVID-19 Hackathon is divided into two phases. Weekly prizes are awarded until April 30th, when projects can submit their projects for the final prizes. Following judging final prizes are awarded.
 
 Projects compete in four problem areas, and are evaluated on effectiveness, accessibility, and impact.
 
