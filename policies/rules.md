@@ -9,27 +9,7 @@ The CODEVID-19 Hackathon is divided into two phases. Weekly prizes are awarded u
 
 Projects compete in four problem areas, and are evaluated on effectiveness, accessibility, and impact.
 
-### Weekly Prizes
-
-For the majority of the event, teams may submit projects into a weekly competition. The winner is determined by a popular vote, and announced Tuesdays.
-
-Teams must submit their apps by **Sunday, 23:59 UTC** and then the public has 24-hours from **Monday, 03:00 UTC** to **Tuesday, 03:00 UTC** to vote for their favourite. The winner will be announced by **Tuesday, 20:00 UTC**.
-
-*This is a great opportunity to promote your project and CODEVID-19 to friends, family, and your network!*
-
-[Submit your project for the weekly prizes](submissions.html#weekly-prize-submission)
-
-### Final Prizes
-
-Teams also have until April 30th at 23:59 UTC to submit their projects for consideration for the final prizes.
-
-These are larger prizes awarded to a winner and runner-up in four problem areas, as decided by a team of expert judges. There will also be final popular choice prize awarded at the end of the competition.
-
-Judging begins once project submissions close, and we're aiming to complete it within one week.
-
-[Submit your project for the final prizes](submissions.html#final-prize-submission)
-
-### Our Challenge
+### The Problems
 
 We're passionate about improving the quality of life for people during and after the COVID-19 Pandemic by addressing the following problems:
 
@@ -79,6 +59,26 @@ Therefore we will be judging projects on three main criteria:
 ### Your Team
 
 Teams of up to 5 people are welcome to participate. For legal reasons we require that all team members be 13 years or older as of May 16th at 00:00 UTC if they wish to participate.
+
+### Weekly Competitions
+
+For the majority of the event, teams may submit projects into a weekly competition. The winner is determined by a popular vote, and announced Tuesdays.
+
+Teams must submit their apps by **Sunday, 23:59 UTC** and then the public has 24-hours from **Monday, 03:00 UTC** to **Tuesday, 03:00 UTC** to vote for their favourite. The winner will be announced by **Tuesday, 20:00 UTC**.
+
+*This is a great opportunity to promote your project and CODEVID-19 to friends, family, and your network!*
+
+[Submit your project for the weekly prizes](submissions.html#weekly-prize-submission)
+
+### Final Competition
+
+Teams also have until April 30th at 23:59 UTC to submit their projects for consideration for the final prizes.
+
+These are larger prizes awarded to a winner and runner-up in four problem areas, as decided by a team of expert judges. There will also be final popular choice prize awarded at the end of the competition.
+
+Judging begins once project submissions close, and we're aiming to complete it within one week.
+
+[Submit your project for the final prizes](submissions.html#final-prize-submission)
 
 ### Prizes
 
