@@ -33,10 +33,30 @@ Judging begins once project submissions close, and we're aiming to complete it w
 
 We're passionate about improving the quality of life for people during and after the COVID-19 Pandemic by addressing the following problems:
 
-1. supporting first responders,  healthcare workers, and emergency response
-2. Understanding the pandemic and fighting  misinformation
-3. coping with social isolation
-4. understanding and managing scarcity & the economic impact
+1. Supporting Crisis Response
+2. (Mis)Understanding The Pandemic
+3. Social Distancing & Isolation 
+4. Scarcity & The Economy
+
+#### Supporting Crisis Response
+
+First responders, healthcare workers and emergency response managers are on the front lines of the pandemic. How can we help to work more effectively, safely, and quickly?
+
+#### (Mis)Understanding The Pandemic
+
+How can we better understand the current state of the pandemic and make informed decisions about the future? How do we evaluate and trust the information around us?
+
+#### Social Distancing & Isolation
+
+From working at home, assisting the elderly and at need, to entertaining and educating our children few parts of the pandemic more broadly impact society than the Social Isolation and Distancing we're all practicing.
+
+How do we limit the impact and costs associated with Social Isolation and Distancing, and ensure that we're ready to pick up where we left off when we come back together?
+
+#### Scarcity & The Economy
+
+Economics is the study of scarcity, and during the pandemic it's a struggle to understand the situation and how to most effectively use limited resources to maximum effect.
+
+How we better understand and manage the economic impacts, and use our resources most effectively to weather the largest economic change in modern history.
 
 ### Your Solution
 
