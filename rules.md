@@ -3,10 +3,20 @@ layout: default
 title: CODEVID-19 Rules
 ---
 
-Rules, Submissions & FAQ
-------------------------
+## Abstract
 
-### Rules
+The CODEVID-19 Hackathon is divided into two phases.
+
+For the majority of the event, teams may submit projects into a weekly competition the winner of which is determined by a popular vote. Teams submit their apps by 23:59 UTC Sunday and then the public has 24-hours from 03:00 UTC Monday to 03:00 UTC Tuesday to vote on their favourite.
+
+Teams also have until April 30th to submit their projects for consideration for the final prizes. These are larger prizes awarded to a winner and runner-up in four problem areas, as decided by a team of expert judges. There will also be final popular choice prize awarded at the end of the competition.
+
+### The Problems
+
+1. supporting first responders,  healthcare workers, and emergency response
+2. Understanding the pandemic and fighting  misinformation
+3. coping with social isolation
+4. understanding and managing scarcity & the economic impact
 
 #### How big can teams be?
 
