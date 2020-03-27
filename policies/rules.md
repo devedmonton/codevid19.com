@@ -114,6 +114,12 @@ By participating participants agree to give organizers permission to contact the
 
 Participants understand that by withdrawing their consent to communicate with organizers they will be putting themselves, their team, and their project at a competitive disadvantage. Organizers cannot be held responsible for participants receiving information supplied via email or Slack. It's participants resonsponsibiltiy to regularly check the website or Slack for updates should they choose to withdraw consent.
 
+### Competing In Other Events
+
+Participation in other hackathons and events during this period does not disqualify you from participating in CODEVID-19. As long as your project and team meet the rules and conditions you're welcome to participate in CODEVID-19 and submit your projects like other teams.
+
+Our only requirement is that all projects must join the Hackathon on FindCollabs and list their projects there before submitting.
+
 ## The Fine Print
 
 These are all the details most people don't care to read, but our lawyers make us put in anyway just to keep us out of trouble.
