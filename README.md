@@ -8,7 +8,7 @@ With Ruby 2.1+ installed, you'll want to install dependencies using bundler.
 
 From this point you can build and serve the site using:
 
-    bundle exec jekyll serve -H 0.0.0.0 -p 4000
+    ./serve.sh
 
 This will serve the site at:
 
