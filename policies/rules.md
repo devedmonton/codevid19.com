@@ -106,7 +106,7 @@ Teams are welcome to use someone else's assets (e.g. libraries, frameworks, temp
 
 ### Media Consent
 
-From time-to-time projects and other information about the Hackathon will be shared publicly via social and other media. We respect participants right to privacy and will not share personal information without prior consent.
+From time-to-time projects and other information about the Hackathon will be shared publicly via social and other media. We respect participants' right to [privacy](privacy-policy.html) and will not share personal information without prior consent.
 
 CODEVID-19 organizers, partners, and sponsors reserve the right to use all participating teams’ and/or individuals’ names and likenesses in any publicity statements or events, including internet and website posts or articles, regarding the CODEVID-10 or the party’s involvement therewith.
 
