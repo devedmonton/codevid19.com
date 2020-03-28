@@ -5,7 +5,7 @@ title: CODEVID-19 Rules
 
 ## Summary
 
-The CODEVID-19 Hackathon is divided into two phases. Weekly prizes are awarded until April 30th, when projects can submit their projects for the final prizes. Final prizes are awarded following a judging period.
+The CODEVID-19 Hackathon is divided into two phases. Weekly prizes are awarded until April 30th, when teams can submit their projects for the final prizes. Final prizes are awarded following a judging period.
 
 Projects compete in four problem areas, and are evaluated on effectiveness, accessibility, and impact.
 
@@ -108,15 +108,15 @@ From time-to-time projects and other information about the Hackathon will be sha
 
 ### Communication Consent and Responsibilities
 
-By participating participants agree to give organizers permission to contact them with information and communication relevant to CODEVID-19 via Slack, email, or other methods deemed appropriate by event organizers. This consent may be withdrawn at anytime be contacting contact@codevid19.com, or using the unsubscribe feature in the mailing list.
+By participating, participants agree to give organizers permission to contact them with information and communication relevant to CODEVID-19 via Slack, email, or other methods deemed appropriate by event organizers. This consent may be withdrawn at anytime be contacting contact@codevid19.com, or using the unsubscribe feature in the mailing list.
 
-Participants understand that by withdrawing their consent to communicate with organizers they will be putting themselves, their team, and their project at a competitive disadvantage. Organizers cannot be held responsible for participants receiving information supplied via email or Slack. It's participants resonsponsibiltiy to regularly check the website or Slack for updates should they choose to withdraw consent.
+Participants understand that by withdrawing their consent to communicate with organizers they will be putting themselves, their team, and their project at a competitive disadvantage. Organizers cannot be held responsible for participants receiving information supplied via email or Slack. It's a participant's resonsponsibiltiy to regularly check the website or Slack for updates should they choose to withdraw consent.
 
 ### Competing In Other Events
 
-Participation in other hackathons and events during this period does not disqualify you from participating in CODEVID-19. As long as your project and team meet the rules and conditions you're welcome to participate in CODEVID-19 and submit your projects like other teams.
+Participation in other hackathons and events during this period does not disqualify you from participating in CODEVID-19. As long as your project and team meet the CODEVID-19 rules and conditions you're welcome to participate in CODEVID-19 and submit your projects like other teams.
 
-Our only requirement is that all projects must join the Hackathon on FindCollabs and list their projects there before submitting.
+Note that all teams must join the Hackathon on FindCollabs and list their projects there before submitting if they'd like to be considered for weekly or final prizes.
 
 ## The Fine Print
 
