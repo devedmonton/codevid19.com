@@ -22,7 +22,7 @@ We're passionate about improving the quality of life for people during and after
 
 First responders, healthcare workers and emergency response managers are on the front lines of the pandemic. How can we help to work more effectively, safely, and quickly?
 
-Examples of apps in this catergory might include services to crowd source reporting of crisis information, using machine learning and data science to quickly identify problems to be addressed, or allow more efficient distribution of health care and emergency resources.
+Examples of apps in this category might include services to crowd source reporting of crisis information, using machine learning and data science to quickly identify problems to be addressed, or allow more efficient distribution of health care and emergency resources.
 
 #### Understanding The Pandemic
 
@@ -36,7 +36,7 @@ From working at home, assisting the elderly and at need, to entertaining and edu
 
 How do we limit the impact and costs associated with Social Isolation and Distancing, and ensure that we're ready to pick up where we left off when we come back together?
 
-Apps in this category might help connect people together, indentify people in distress, facilitate remote working, on assist parents and educators continue classes.
+Apps in this category might help connect people together, identify people in distress, facilitate remote working, on assist parents and educators continue classes.
 
 #### Scarcity & The Economy
 
@@ -118,7 +118,7 @@ Your Submission may be posted in public on the internet. We are not responsible 
 
 By participating, participants agree to give organizers permission to contact them with information and communication relevant to CODEVID-19 via Slack, email, or other methods deemed appropriate by event organizers. This consent may be withdrawn at anytime be contacting contact@codevid19.com, or using the unsubscribe feature in the mailing list.
 
-Participants understand that by withdrawing their consent to communicate with organizers they will be putting themselves, their team, and their project at a competitive disadvantage. Organizers cannot be held responsible for participants receiving information supplied via email or Slack. It's a participant's resonsponsibiltiy to regularly check the website or Slack for updates should they choose to withdraw consent.
+Participants understand that by withdrawing their consent to communicate with organizers they will be putting themselves, their team, and their project at a competitive disadvantage. Organizers cannot be held responsible for participants receiving information supplied via email or Slack. It's a participant's ressponsibility to regularly check the website or Slack for updates should they choose to withdraw consent.
 
 ### Competing In Other Events
 
