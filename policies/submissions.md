@@ -21,7 +21,7 @@ Read these carefully, otherwise we can't consider your team for prizing!
 
 **[Ensure you've read and understand the full rules!](rules.html)**
 
-* All project must be [registered on FindCollabs](https://findcollabs.com/hackathon/codevid-19-isp21fkqtjupchx7kjed) to be eligible
+* All projects must be [registered on FindCollabs](https://findcollabs.com/hackathon/codevid-19-isp21fkqtjupchx7kjed) to be eligible
 * Team members must all be 13 years or older, and teams larger than 5 are ineligible for prizes.
 * In the spirit of hackathons, only apps that were started **on or after March 16, 00:00 UTC** will be considered for prizing.
 * IP remains your during and after the competition.

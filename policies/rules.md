@@ -15,7 +15,7 @@ We're passionate about improving the quality of life for people during and after
 
 1. Supporting Crisis Response
 2. Understanding The Pandemic
-3. Social Distancing & Isolation 
+3. Social Distancing & Isolation
 4. Scarcity & The Economy
 
 #### Supporting Crisis Response
@@ -28,7 +28,7 @@ Examples of apps in this category might include services to crowd source reporti
 
 How can we better understand the current state of the pandemic and make informed decisions about the future? How do we evaluate and trust the information around us?
 
-An app in this category might help provide verified answers to questions about COVID-19 and the pandemic, predict if the curve is being flattened, or help people report and filter out mis-information.
+An app in this category might help provide verified answers to questions about COVID-19 and the pandemic, predict if the curve is being flattened, or help people report and filter out misinformation.
 
 #### Social Distancing & Isolation
 
@@ -54,7 +54,7 @@ Therefore we will be judging projects on three main criteria:
 
 1. **Effectiveness** - How well does this project address the problem it's attempting to solve?
 2. **Accessibility** - How easily are people are able to access this project?
-3. **Impact** - How many people have benefitted from this project?
+3. **Impact** - How many people have benefited from this project?
 
 ### Your Team
 
@@ -66,7 +66,7 @@ For the majority of the event, teams may submit projects into a weekly competiti
 
 Teams must submit their apps by **Sunday, 23:59 UTC** and then the public has 24-hours from **Monday, 03:00 UTC** to **Tuesday, 03:00 UTC** to vote for their favourite. The winner will be announced by **Tuesday, 20:00 UTC**.
 
-*This is a great opportunity to promote your project and CODEVID-19 to friends, family, and your network!*
+_This is a great opportunity to promote your project and CODEVID-19 to friends, family, and your network!_
 
 [Submit your project for the weekly prizes](submissions.html#weekly-prize-submission)
 
@@ -110,7 +110,7 @@ From time-to-time projects and other information about the Hackathon will be sha
 
 CODEVID-19 organizers, partners, and sponsors reserve the right to use all participating teams’ and/or individuals’ names and likenesses in any publicity statements or events, including internet and website posts or articles, regarding the CODEVID-10 or the party’s involvement therewith.
 
-By submitting a Submission, you grant the organizers, sponsor and the CODEVID-19 Hackathon an irrevocable, royalty-free, non-exclusive, worldwide right and license to use, distribute to the public, and publicly display and perform your Submission in any media, for any non-commercial or commercial purpose. 
+By submitting a Submission, you grant the organizers, sponsor and the CODEVID-19 Hackathon an irrevocable, royalty-free, non-exclusive, worldwide right and license to use, distribute to the public, and publicly display and perform your Submission in any media, for any non-commercial or commercial purpose.
 
 Your Submission may be posted in public on the internet. We are not responsible for any unauthorized use of your submission or project by users of the CODEVID-19 website.
 
@@ -118,7 +118,7 @@ Your Submission may be posted in public on the internet. We are not responsible 
 
 By participating, participants agree to give organizers permission to contact them with information and communication relevant to CODEVID-19 via Slack, email, or other methods deemed appropriate by event organizers. This consent may be withdrawn at anytime be contacting contact@codevid19.com, or using the unsubscribe feature in the mailing list.
 
-Participants understand that by withdrawing their consent to communicate with organizers they will be putting themselves, their team, and their project at a competitive disadvantage. Organizers cannot be held responsible for participants receiving information supplied via email or Slack. It's a participant's ressponsibility to regularly check the website or Slack for updates should they choose to withdraw consent.
+Participants understand that by withdrawing their consent to communicate with organizers they will be putting themselves, their team, and their project at a competitive disadvantage. Organizers cannot be held responsible for participants receiving information supplied via email or Slack. It's a participant's responsibility to regularly check the website or Slack for updates should they choose to withdraw consent.
 
 ### Competing In Other Events
 
@@ -156,8 +156,8 @@ If you've made it this far, you're awesome. Ping @Mark on Slack and say hello! :
 
 A big thank you to all these groups who contributed ideas and references to these rules!
 
-* https://github.com/MLH/mlh-hackathon-rules/blob/master/Rules.md
-* https://covid-global-hackathon.devpost.com/rules
-* https://valleyhackathon.com/RulesandCodeofConduct
-* https://hosthelp.globallegalhackathon.com/category/17-schedule-and-rules
-* https://hackathon.guide/
+- https://github.com/MLH/mlh-hackathon-rules/blob/master/Rules.md
+- https://covid-global-hackathon.devpost.com/rules
+- https://valleyhackathon.com/RulesandCodeofConduct
+- https://hosthelp.globallegalhackathon.com/category/17-schedule-and-rules
+- https://hackathon.guide/
