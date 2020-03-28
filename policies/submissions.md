@@ -7,12 +7,12 @@ Read these carefully, otherwise we can't consider your team for prizing!
 
 ### Deliverables
 
-1. REQUIRED: A link to your working app (whether that's a FindCollabs link, the website URL, or a TestFlight/Google Play opt-in URL).
-2. REQUIRED: A link to a screenshot we can share with voters.
-3. REQUIRED: Instructions for interacting with your app (if not included in the app itself).
-4. REQUIRED: An email address that judges can use to follow up with the team should they have questions or concerns. This will not be shared with the public, or with voters.
-5. REQUIRED: A link to your project on FindCollabs
-6. OPTIONAL: For open-source projects, we encourage a link to the source code repository (e.g. GitHub, GitLab, Bitbucket, etc.).
+1. **REQUIRED:** A link to your working app (whether that's a FindCollabs link, the website URL, or a TestFlight/Google Play opt-in URL).
+2. **REQUIRED:** A link to a screenshot we can share with voters.
+3. **REQUIRED:** Instructions for interacting with your app (if not included in the app itself).
+4. **REQUIRED:** An email address that judges can use to follow up with the team should they have questions or concerns. This will not be shared with the public, or with voters.
+5. **REQUIRED:** A link to your project on FindCollabs
+6. **OPTIONAL:** For open-source projects, we encourage a link to the source code repository (e.g. GitHub, GitLab, Bitbucket, etc.).
 
 ### General Rules
 
