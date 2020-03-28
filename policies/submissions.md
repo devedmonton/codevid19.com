@@ -16,11 +16,17 @@ Read these carefully, otherwise we can't consider your team for prizing!
 5. **REQUIRED:** A link to your project on FindCollabs
 6. **OPTIONAL:** For open-source projects, we encourage a link to the source code repository (e.g. GitHub, GitLab, Bitbucket, etc.).
 
-### General Rules
+### Summary of the Rules
 
-*   Your solution does not need to be open-source, but it must be available (upon request) for scrutiny by organizers and judges.
-*   In the spirit of hackathons, only apps that were started **on or after March 16, 00:00 UTC** will be considered for prizing.
-*   It bears repeating: organizers and judges reserve the right to disqualify entries and winners who violate the [Code of Conduct](/code-of-conduct.html) and [Rules](/policies/rules.html) outlined on this website.
+**[Ensure you've read and understand the full rules!](rules.html)**
+
+* All project must be [registered on FindCollabs](https://findcollabs.com/hackathon/codevid-19-isp21fkqtjupchx7kjed) to be eligible
+* Team members must all be 13 years or older, and teams larger than 5 are ineligible for prizes.
+* In the spirit of hackathons, only apps that were started **on or after March 16, 00:00 UTC** will be considered for prizing.
+* IP remains your during and after the competition.
+* Teams are responsible for following the licenses associated with the libraries, source code, and assets they use
+* By submitting your project you grant the organizers, sponsors and partners the right to share the likeness of your project (screenshots, descriptions, etc.) in public. By sharing publicly we can't make any guarentees or take responsibility for how shared content is used.
+* Organizers and judges reserve the right to disqualify entries and winners who violate the [Code of Conduct](/code-of-conduct.html) and [Rules](/policies/rules.html) outlined on this website
 
 ## Weekly Prize Submission
 
