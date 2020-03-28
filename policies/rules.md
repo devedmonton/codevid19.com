@@ -86,6 +86,8 @@ Prizes of monetary value will be distributed to winning teams electronically. Al
 
 Some sponsors may be given the opportunity award prizes during the course of the competition. These prizes will be communicated and awarded by sponsors in the manner they see fit, and subject to the rules and veto of the event organizers.
 
+You will not receive any compensation or credit for the use of your Submission, other than what is described in these Official Rules.
+
 ### Judging
 
 During the final prize round a team of expert judges will review each entry. Teams entering their projects for prizes will be expected to be available to answer judges questions via email, and if possible in person.
@@ -105,6 +107,12 @@ Teams are welcome to use someone else's assets (e.g. libraries, frameworks, temp
 ### Media Consent
 
 From time-to-time projects and other information about the Hackathon will be shared publicly via social and other media. We respect participants right to privacy and will not share personal information without prior consent.
+
+We, along with all parties involved in the development of CODEVID-19, reserve the right to use all participating teams’ and/or individuals’ names and likenesses in any publicity statements or events, including internet and website posts or articles, regarding the CODEVID-10 or the party’s involvement therewith.
+
+By submitting a Submission, you grant the organizers, sponsor and the CODEVID-19 Hackathon an irrevocable, royalty-free, non-exclusive, worldwide right and license to use, distribute to the public, and publicly display and perform your Submission in any media, for any non-commercial or commercial purpose. 
+
+Your Submission may be posted on a public website. We are not responsible for any unauthorized use of your Submission by visitors to this website.
 
 ### Communication Consent and Responsibilities
 
