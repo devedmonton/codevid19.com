@@ -46,3 +46,4 @@ When submitting for final consideration, teams must also include:
 * When submitting projects for final consideration, please ensure that the team is available during the judging period to answer questions about your project.
 * During final judging some teams may be asked to meet with the judges via video conference. Please ensure some or all team members are available.
 * Failure to communicate and answer questions from the judges may disadvantage your place in the competition, and could disqualify you from prizes.
+* Projects may only be submitted for consideration in one prize category at a time, however you can submit your project multiple times and apply for more than one prize.
