@@ -143,3 +143,13 @@ If you've made it this far, you're awesome. Ping @Mark on Slack and say hello! :
 ## Frequently Asked Questions (FAQs)
 
 [We've got a whole page devoted to frequently asked questions!](faq.html)
+
+## Acknowledgements
+
+A big thank you to all these groups who contributed ideas and references to these rules!
+
+* https://github.com/MLH/mlh-hackathon-rules/blob/master/Rules.md
+* https://covid-global-hackathon.devpost.com/rules
+* https://valleyhackathon.com/RulesandCodeofConduct
+* https://hosthelp.globallegalhackathon.com/category/17-schedule-and-rules
+* https://hackathon.guide/
