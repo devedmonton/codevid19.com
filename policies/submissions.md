@@ -31,6 +31,8 @@ Read these carefully, otherwise we can't consider your team for prizing!
 
 ## Weekly Prize Submission
 
+Click [here](https://docs.google.com/forms/d/e/1FAIpQLSfN-_kZIHcb2pLG9lMhTGnX797tlXXf4xXyil1-7-ga6phMtA/viewform) to submit your project.
+
 - Your submission does not need to be complete, but you must be able to demonstrate it.
 - Teams may submit their projects for multiple weekly considerations; however, new progress must be demonstrated leading up to each submission.
 
