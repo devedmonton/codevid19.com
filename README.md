@@ -1,14 +1,25 @@
 # codevid19.com
 
-## Running with Docker
+## Local development using Docker & docker-compose
 
-Assuming Docker and docker-compose are installed:
+This assumes `Docker` and `docker-compose` are installed.
+
+### Starting the container
 ```{bash}
-make start
+docker-compose run -p 4000:4000 shell // or `make start` if you are linux
 ```
+
+### Starting the dev server
 Then from within the container you can run:
 ```
 ./serve.sh
+```
+
+### Rebuilding the container
+
+*needed whenever the Gemfile is edited*
+```{bash}
+docker-compose build shell
 ```
 
 ## Local instalation
