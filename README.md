@@ -6,7 +6,7 @@ This assumes `Docker` and `docker-compose` are installed.
 
 ### Starting the container
 ```{bash}
-docker-compose run -p 4000:4000 shell // or `make start` if you are linux
+docker-compose run -p 4000:4000 shell // or `make start` if you are linux/osx
 ```
 
 ### Starting the dev server
@@ -19,7 +19,7 @@ Then from within the container you can run:
 
 *needed whenever the Gemfile is edited*
 ```{bash}
-docker-compose build shell
+docker-compose build shell // or `make build` if you are linux/osx
 ```
 
 ## Local instalation
