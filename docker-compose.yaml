@@ -1,0 +1,19 @@
+version: '3.5'
+
+services:
+
+  # basic
+  shell: &basic
+    container_name: codevid
+    image: codevid
+    build:
+      context: .
+      target: basic
+      dockerfile: Dockerfile
+    working_dir: /home/app_user/app
+    volumes:
+      - .:/home/app_user/app
+    entrypoint: bash
+    stdin_open: true
+    tty: true
+

@@ -1,5 +1,18 @@
 # codevid19.com
 
+## Running with Docker
+
+Assuming Docker and docker-compose are installed:
+```{bash}
+make start
+```
+Then from within the container you can run:
+```
+./serve.sh
+```
+
+## Local instalation
+
 This uses Jeykll with Github Pages plugins, so that content can be quickly published and served as a Github Page. To build locally you'll need to install Ruby 2.1+.
 
 With Ruby 2.1+ installed, you'll want to install dependencies using bundler.
