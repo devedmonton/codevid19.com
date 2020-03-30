@@ -19,7 +19,7 @@ RUN groupadd --system ${APP_GROUP} \
 WORKDIR ${APP_USER_HOME}/app
 
 ADD Gemfile .
-#ADD Gemfile.lock .
+ADD Gemfile.lock .
 
 RUN bundle install
 
