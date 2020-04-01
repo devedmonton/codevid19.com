@@ -26,7 +26,7 @@ Read these carefully, otherwise we can't consider your team for prizing!
 - In the spirit of hackathons, only apps that were started **on or after March 16, 00:00 UTC** will be considered for prizing.
 - IP remains your during and after the competition.
 - Teams are responsible for following the licenses associated with the libraries, source code, and assets they use
-- By submitting your project you grant the organizers, sponsors and partners the right to share the likeness of your project (screenshots, descriptions, etc.) in public. By sharing publicly we can't make any guarentees or take responsibility for how shared content is used.
+- By submitting your project you grant the organizers, sponsors and partners the right to share the likeness of your project (screenshots, descriptions, etc.) in public. By sharing publicly we can't make any guarantees or take responsibility for how shared content is used.
 - Organizers and judges reserve the right to disqualify entries and winners who violate the [Code of Conduct](/code-of-conduct.html) and [Rules](/policies/rules.html) outlined on this website
 
 ## Weekly Prize Submission
