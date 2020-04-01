@@ -46,7 +46,7 @@ This hackathon is free to enter and participate in! We thank our sponsors for su
 
 #### Okay, so what's the catch?
 
-Participants and volunteers must abide by and uphold the [Code of Conduct](code-of-conduct.html), [Rules](#rules) and generally be an upstanding human being.
+Participants and volunteers must abide by and uphold the [Code of Conduct](code-of-conduct.html), [Rules]({{ '/#rules-and-faq' | relative_url }}) and generally be an upstanding human being.
 
 #### If I see organizers give out a time/deadline, what time zone is it in?
 
