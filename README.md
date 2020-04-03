@@ -1,5 +1,7 @@
 # codevid19.com
 
+## Installation
+
 This uses Jeykll with Github Pages plugins, so that content can be quickly published and served as a Github Page. To build locally you'll need to install Ruby 2.1+.
 
 With Ruby 2.1+ installed, you'll want to install dependencies using bundler.
@@ -13,6 +15,10 @@ From this point you can build and serve the site using:
 This will serve the site at:
 
     http://localhost:4000
+
+### VSCode Remote - Containers
+
+This project is configured to work with [VSCode](https://code.visualstudio.com/)'s [Remote - Containers](https://code.visualstudio.com/docs/remote/containers). Be sure to follow VSCode's [instructions](https://code.visualstudio.com/docs/remote/containers#_installation) if you are setting this up for the first time.
 
 ## Contributing
 
