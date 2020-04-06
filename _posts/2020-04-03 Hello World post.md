@@ -7,7 +7,7 @@ Author: John
 
 
 ![Edmonton Skyline](https://github.com/johnny-newton/codevid19.com/blob/patch-1/images/Edmonton%20Skyline%20pic.jpg)
-[Edmonton Summer Cityscape](https://www.flickr.com/photos/iqremix/42276507674) by [IQRemix](https://www.flickr.com/photos/iqremix/) is licenced under [CC-BY-SA 2.0](https://creativecommons.org/licenses/by-nd/2.0/)
+[Edmonton Summer Cityscape](https://www.flickr.com/photos/iqremix/42276507674) by [IQRemix](https://www.flickr.com/photos/iqremix/) is licenced under [CC-BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
 
 
 In case you have just joined us, CODEVID-19 was launched on March 16, 2020 in Edmonton, Canada.  It has been truly awe-inspiring to see how the hackathon has brought together developers, designers, passionate creators, and experts from public health and emergency management from around the globe. 
