@@ -9,7 +9,7 @@ title: Charity Shop Exchange
     <img src="/images/blog/charity-shop-exchange.png" alt="Charity Shop Exchange">
 </span>
 
-A large helping of thank-you to Blake Prouty for giving us insight into his team’s [Charity Shop Exchange](https://charityshopexchange.com) project. Blake is an unlikely hockey fan who hails from South Dakota, and cheers for the Calgary Flames.  This is no place for hockey rivalry, so without further ado here are his thoughts on the project. 
+A large helping of thank-you to [Blake Prouty](https://twitter.com/BlakeNthaniel) for giving us insight into his team’s [Charity Shop Exchange](https://charityshopexchange.com) project. Blake is an unlikely hockey fan who hails from South Dakota, and cheers for the Calgary Flames.  This is no place for hockey rivalry, so without further ado here are his thoughts on the project. 
 
 
 **Where did your idea come from and what problem are you trying to address?**
@@ -26,17 +26,17 @@ All of us met through *Slack*, or *Twitter* while trying to discover a way we co
 
 **Can you tell us about your team?**
 
-Kelvin Lockwood  hails from Bournemouth, UK
-I am from Sioux Falls, South Dakota
-Matt Doyle lives in Sydney Australia
-Dicky Jiang is based in Bandung Area, West Java, Indonesia
+*Kelvin Lockwood* hails from Bournemouth, UK  
+*Blake Prouty (that's me!)*, am from Sioux Falls, South Dakota  
+*Matt Doyle* lives in Sydney Australia  
+*Dicky Jiang* is based in Bandung Area, West Java, Indonesia
 
 **What skills do they bring?**
 
-Kelvin Lockwood - Product Ownership and Product Developer
-I am a Full Stack Web Developer, HTML, CSS, JS, and React/Node
-Matt Doyle - Full Stack Web Development: HTML, CSS, JS, and React/PHP/WP
-Dicky Jiang - UIX Designer: Photoshop, Photography, Graphic Design, CSS, HTML, and Web Design
+*Kelvin Lockwood* - Product Ownership and Product Developer  
+*Blake Prouty (me again!)* - Full Stack Web Developer, HTML, CSS, JS, and React/Node  
+*Matt Doyle* - Full Stack Web Development: HTML, CSS, JS, and React/PHP/WP  
+*Dicky Jiang* - UIX Designer: Photoshop, Photography, Graphic Design, CSS, HTML, and Web Design
 
 **How was the experience of working remotely?**
 
@@ -48,7 +48,7 @@ A great benefit, we’ve all shared with each other the additional steps we’ve
 
 **What tools, made available by the  hackathon, are you using?**
 
-At this time we’ve not had a need for a Back end component on our project, but would like to thank FaunaDB for offering their database services to the hackathon, I’ll be sure to use them in an upcoming project!
+At this time we’ve not had a need for a backend component on our project, but would like to thank [FaunaDB](https://fauna.com/) for offering their database services to the hackathon, I’ll be sure to use them in an upcoming project!
 
 **Is there anything else you’d like to say?**
 
@@ -58,6 +58,6 @@ Blake *A.* Prouty
 
 For more information on Charity Shop Exchange:
 
-Website: [Charity Shop Exchange](https://charityshopexchange.com)  
-Source Code: [CSE code](https://github.com/Charity-Shop-Exchange/Charity-Shop-Exchange)  
-Country: United Kingdom, USA, Australia and Indonesia
+**Website:** [Charity Shop Exchange](https://charityshopexchange.com)  
+**Source Code:** [CSE code](https://github.com/Charity-Shop-Exchange/Charity-Shop-Exchange)  
+**Country:** United Kingdom, USA, Australia and Indonesia
