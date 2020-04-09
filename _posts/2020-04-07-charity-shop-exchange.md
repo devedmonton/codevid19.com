@@ -5,9 +5,11 @@ title: Charity Shop Exchange
 
 # Charity Shop Exchange
 
-![](https://github.com/johnny-newton/codevid19.com/blob/patch-1/images/Charity%20Shop%20Exchange.png)
+<span class="image right">
+    <img src="/images/blog/charity-shop-exchange.png" alt="Charity Shop Exchange">
+</span>
 
-A large helping of thank-you to Blake Prouty for giving us insight into his team’s Charity Shop Exchange project. Blake is an unlikely hockey fan who hails from South Dakota, and cheers for the Calgary Flames.  This is no place for hockey rivalry, so without further ado here are his thoughts on the project. 
+A large helping of thank-you to Blake Prouty for giving us insight into his team’s [Charity Shop Exchange](https://charityshopexchange.com) project. Blake is an unlikely hockey fan who hails from South Dakota, and cheers for the Calgary Flames.  This is no place for hockey rivalry, so without further ado here are his thoughts on the project. 
 
 
 **Where did your idea come from and what problem are you trying to address?**
@@ -56,6 +58,6 @@ Blake *A.* Prouty
 
 For more information on Charity Shop Exchange:
 
-Website: [Charity Shop Exchange](https://charityshopexchange.com)
-Source code: [CSE code](https://github.com/Charity-Shop-Exchange/Charity-Shop-Exchange)
+Website: [Charity Shop Exchange](https://charityshopexchange.com)  
+Source Code: [CSE code](https://github.com/Charity-Shop-Exchange/Charity-Shop-Exchange)  
 Country: United Kingdom, USA, Australia and Indonesia
