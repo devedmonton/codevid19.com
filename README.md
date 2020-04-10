@@ -41,6 +41,8 @@ Traditional SASS users may not be used to how Jekyll requires things to be laid 
 
 **Do not remove this markup**, otherwise Jekyll will not process the file into a `.css` file for the `_site/assets/css` folder. Yeah your linters may complain but it's a small price to pay.
 
+To compile your SASS, `./serve.sh` should be doing that for you already.  Because of Jekyll, we do not recommend using `sass` CLI on its own.
+
 ## Style Guide
 
 This project uses [Prettier](https://prettier.io/) to enforce a consistent code style. If you are doing work in HTML/SASS/JS, ensure you have it installed and it's highly-recommended you have it automatically run before submitting your PRs.
