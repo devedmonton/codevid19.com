@@ -3,8 +3,6 @@ author: John
 title: Charity Shop Exchange
 ---
 
-# Charity Shop Exchange
-
 <span class="image right">
     <img src="/images/blog/charity-shop-exchange.png" alt="Charity Shop Exchange">
 </span>
