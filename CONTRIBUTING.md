@@ -2,6 +2,9 @@
 
 We're so glad you're willing to help! There's a few things you should know:
 
+- By contributing to this repository, you are agreeing to release ownership of the intellectual property of the contributions we accept from you to Dev Edmonton Society
+- Your contributions will be licensed under Creative Commons Attribution-Sharealike 4.0.  See our [license](https://github.com/devedmonton/codevid19.com/blob/master/LICENSE.txt) for more information.
+
 1. Fork our `devedmonton/codevid19.com` repo and it will create a new repo under your GitHub account.
 1. Create a new feature branch from your own repo's `master` branch. Try to name it something descriptive yet succinct.
 1. Do your work and make commits in your new feature branch. Follow our [style guide](https://github.com/devedmonton/codevid19.com#style-guide) and use [Prettier](https://prettier.io/) when possible.
