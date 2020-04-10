@@ -22,7 +22,9 @@ This project is configured to work with [VSCode](https://code.visualstudio.com/)
 
 ## Contributing
 
-Fork and work in your own private branch. We recommend fetching and rebasing often from `upstream`. Submit a PR.
+**tl;dr:** Fork and work in your own private branch. We recommend fetching and rebasing often from `upstream`. Submit a PR.
+
+For more details, check out [CONTRIBUTING.md](https://github.com/devedmonton/codevid19.com/blob/master/CONTRIBUTING.md).
 
 ## SASS & Jekyll Interaction
 
