@@ -11,6 +11,10 @@
   background-color: _palette(accent1);
   cursor: default;
   padding: 1.75em 2em;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0px;
+  z-index: 999;
 
   > .title {
     border: 0;
