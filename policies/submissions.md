@@ -19,14 +19,14 @@ Read these carefully, otherwise we can't consider your team for prizing!
 
 ### Summary of the Rules
 
-**[Ensure you've read and understand the full rules!](rules.html)**
+**[Ensure you've read and understood the full rules!](rules.html)**
 
 - All projects must be [registered on FindCollabs](https://findcollabs.com/hackathon/codevid-19-isp21fkqtjupchx7kjed) to be eligible
 - Team members must all be 13 years or older, and teams larger than 5 are ineligible for prizes.
 - In the spirit of hackathons, only apps that were started **on or after March 16, 00:00 UTC** will be considered for prizing.
-- IP remains your during and after the competition.
+- You and your team retain full intellectual property rights during and after the competition.
 - Teams are responsible for following the licenses associated with the libraries, source code, and assets they use
-- By submitting your project you grant the organizers, sponsors and partners the right to share the likeness of your project (screenshots, descriptions, etc.) in public. By sharing publicly we can't make any guarantees or take responsibility for how shared content is used.
+- By submitting your project, you grant the organizers, sponsors and partners the right to share information about your team and project (screenshots, descriptions, etc.) publicly. By sharing publicly, we can't make any guarantees or take responsibility for how shared content is used.
 - Organizers and judges reserve the right to disqualify entries and winners who violate the [Code of Conduct](/code-of-conduct.html) and [Rules](/policies/rules.html) outlined on this website
 
 ## Weekly Prize Submission
@@ -45,5 +45,5 @@ When submitting for final consideration, teams must also include:
 
 - When submitting projects for final consideration, please ensure that the team is available during the judging period to answer questions about your project.
 - During final judging some teams may be asked to meet with the judges via video conference. Please ensure some or all team members are available.
-- Failure to communicate and answer questions from the judges may disadvantage your place in the competition, and could disqualify you from prizes.
+- Failure to communicate and answer questions from the judges may impact your project's placement in the competition and could disqualify you from prizes.
 - Projects may only be submitted for consideration in one prize category at a time, however you can submit your project multiple times and apply for more than one prize.

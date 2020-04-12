@@ -34,7 +34,7 @@ Sign-ups have started! Register on [FindCollabs](https://findcollabs.com/hackath
 
 #### Do you have datasets and other resources we could start from?
 
-We're working on a pre-compiled list, but until it's available you can find many tools posted in our [Slack](https://join.slack.com/t/codevid-19/shared_invite/zt-dcs1sv47-TXkkSa8vg0uAq5wv1SMnMQ) workspace by our community.
+We're working on a pre-compiled list, but until it's available you can find many tools posted on our [Slack](https://join.slack.com/t/codevid-19/shared_invite/zt-dcs1sv47-TXkkSa8vg0uAq5wv1SMnMQ) workspace by our community.
 
 #### Will all projects be judged? Can I opt not to have my project submitted?
 
