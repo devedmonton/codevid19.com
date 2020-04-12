@@ -3,6 +3,13 @@ layout: default
 title: CODEVID-19 Rules
 ---
 
+## Quick Links
+
+- [Submission Details](submissions.html)
+- [FAQs](faq.html)
+- [Code of Conduct](code-of-conduct.html)
+- Rules: you're in the right place.
+
 ## Summary
 
 The CODEVID-19 Hackathon is divided into two phases. Weekly prizes are awarded until April 30th, when teams can submit their projects for the final prizes. Final prizes are awarded following a judging period.
@@ -149,10 +156,6 @@ Prizes amounts and types will be determined at the discretion of organizers and 
 In the event of a tie for a prize awarded by vote, then the winner will be deemed the first project to receive their final vote. If this does not resolve the tie, the organizers reserve the right to determine a winner based on their judgement. The organizers will strive to do so in an appropriate, fair and impartial manner.
 
 If you've made it this far, you're awesome. Ping @Mark on Slack and say hello! :)
-
-## Frequently Asked Questions (FAQs)
-
-[We've got a whole page devoted to frequently asked questions!](faq.html)
 
 ## Acknowledgements
 
