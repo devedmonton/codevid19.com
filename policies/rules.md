@@ -161,8 +161,8 @@ If you've made it this far, you're awesome. Ping @Mark on Slack and say hello! :
 
 A big thank you to all these groups who contributed ideas and references to these rules!
 
-- https://github.com/MLH/mlh-hackathon-rules/
-- https://covid-global-hackathon.devpost.com/rules
-- https://valleyhackathon.com/RulesandCodeofConduct
-- https://hosthelp.globallegalhackathon.com/category/17-schedule-and-rules
-- https://hackathon.guide/
+- [MLH Hackathon Rules](https://github.com/MLH/mlh-hackathon-rules/)
+- [COVID Global Hackathon](https://covid-global-hackathon.devpost.com/rules)
+- [Valley Hackathon](https://valleyhackathon.com/RulesandCodeofConduct)
+- [Global Legal Hackathon](https://hosthelp.globallegalhackathon.com/category/17-schedule-and-rules)
+- [Hackathon.guide](<https://hackathon.guide/)
