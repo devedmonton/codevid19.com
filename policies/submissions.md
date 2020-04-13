@@ -3,21 +3,9 @@ layout: default
 title: Submitting Your Project
 ---
 
-Read these carefully, otherwise we can't consider your team for prizing!
-
-# Rules Summary
-
-- All projects must be [registered on FindCollabs](https://findcollabs.com/hackathon/codevid-19-isp21fkqtjupchx7kjed) to be eligible
-- Team members must all be 13 years or older, and teams larger than 5 are ineligible for prizes.
-- In the spirit of hackathons, only apps that were started **on or after March 16, 00:00 UTC** will be considered for prizing.
-- You and your team retain full intellectual property rights during and after the competition.
-- Teams are responsible for following the licenses associated with the libraries, source code, and assets they use
-- By submitting your project, you grant the organizers, sponsors and partners the right to share information about your team and project (screenshots, descriptions, etc.) publicly. By sharing publicly, we can't make any guarantees or take responsibility for how shared content is used.
-- Organizers and judges reserve the right to disqualify entries and winners who violate the [Code of Conduct](/code-of-conduct.html) and [Rules](/policies/rules.html) outlined on this website
-
-**Ensure that you have also read and understood the [full rules!](rules.html)**
-
 # Submission Details
+
+Before proceeding, ensure that you have read and understood the **[full rules!](rules.html)**
 
 ## Deliverables
 
