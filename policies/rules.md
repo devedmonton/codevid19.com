@@ -123,7 +123,7 @@ Your Submission may be posted in public on the internet. We are not responsible 
 
 ## Communication Consent and Responsibilities
 
-By participating, participants agree to give organizers permission to contact them with information and communication relevant to CODEVID-19 via Slack, email, or other methods deemed appropriate by event organizers. This consent may be withdrawn at any time be contacting contact@codevid19.com or using the unsubscribe feature in the mailing list.
+By participating, participants agree to give organizers permission to contact them with information and communication relevant to CODEVID-19 via Slack, email, or other methods deemed appropriate by event organizers. This consent may be withdrawn at any time by contacting contact@codevid19.com or using the unsubscribe feature in the mailing list.
 
 Participants understand that by withdrawing their consent to communicate with organizers they will be putting themselves, their team, and their project at a competitive disadvantage. Organizers cannot be held responsible for participants receiving information supplied via email or Slack. It's a participant's responsibility to regularly check the website or Slack for updates should they choose to withdraw consent.
 
