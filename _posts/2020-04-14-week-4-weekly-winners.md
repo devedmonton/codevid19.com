@@ -5,7 +5,7 @@ author: Mark
 
 We're excited to congratulate **"Get Cleard"** and **"FoodSearchInc.com"** on winning this week's prize!
 
-For the first time we had a tie, so we've decided to award both teams the prize. In the future we've updated the rules with some tie breaking options.
+For the first time, we had a tie, so we’ve decided to award both teams the prize. In the future, we’ve updated the rules with some tie-breaking options.
 
 ## Get Cleard
 
