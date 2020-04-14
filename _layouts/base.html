@@ -30,18 +30,45 @@
       property="og:description"
       content="{{ page.description | default: site.description }}"
     />
+
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" />
     <noscript>
       <link
         rel="stylesheet"
         href="{{ '/assets/css/noscript.css' | relative_url }}"
     /></noscript>
+
+    <!-- Cookie Consent by https://www.TermsFeed.com -->
+    <script
+      type="text/javascript"
+      src="//www.termsfeed.com/public/cookie-consent/3.0.0/cookie-consent.js"
+    ></script>
+    <script type="text/javascript">
+      document.addEventListener("DOMContentLoaded", function () {
+        cookieconsent.run({
+          notice_banner_type: "simple",
+          consent_type: "express",
+          palette: "dark",
+          language: "en",
+          website_name: "CODEVID-19",
+          cookies_policy_url: "https://codevid19.com/privacy-policy#usage-data",
+        });
+      });
+    </script>
+
+    <noscript
+      >Cookie Consent by
+      <a href="https://www.TermsFeed.com/">TermsFeed Generator</a></noscript
+    >
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script
       async
+      type="text/plain"
+      cookie-consent="tracking"
       src="https://www.googletagmanager.com/gtag/js?id=UA-160846790-1"
     ></script>
-    <script>
+    <script type="text/plain" cookie-consent="tracking">
       window.dataLayer = window.dataLayer || [];
       function gtag() {
         dataLayer.push(arguments);
