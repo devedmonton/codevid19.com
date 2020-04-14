@@ -146,6 +146,8 @@ To participate, team members must be at least 13 years of ago at the time the co
 
 Prizes amounts and types will be determined at the discretion of organizers and event sponsors, and distributed in a manner they see fit.
 
+In the event of a tie for a prize awarded by vote, then the winner will be deemed the first project to receive their final vote. If this does not resolve the tie, the organizers reserve the right to determine a winner based on their judgement. The organizers will strive to do so in an appropriate, fair and impartial manner.
+
 If you've made it this far, you're awesome. Ping @Mark on Slack and say hello! :)
 
 ## Frequently Asked Questions (FAQs)
