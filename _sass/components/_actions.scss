@@ -9,12 +9,15 @@
 ul.actions {
   @include vendor("display", "flex");
   cursor: default;
+  flex-wrap: wrap;
   list-style: none;
-  margin-left: (_size(element-margin) * -0.5);
+  margin: (_size(element-margin) * -0.5) (_size(element-margin) * -0.5)
+    (_size(element-margin) * 0.5) (_size(element-margin) * -0.5);
   padding-left: 0;
+  padding-top: (_size(element-margin) * 0.5);
 
   li {
-    padding: 0 0 0 (_size(element-margin) * 0.5);
+    padding: 0 0 (_size(element-margin) * 0.5) (_size(element-margin) * 0.5);
     vertical-align: middle;
   }
 
@@ -49,7 +52,6 @@ ul.actions {
     li {
       @include vendor("flex-grow", "1");
       @include vendor("flex-shrink", "1");
-      width: 100%;
 
       > * {
         width: 100%;
