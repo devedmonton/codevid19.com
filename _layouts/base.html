@@ -8,7 +8,10 @@
   <head>
     <title>{{ page.title | default: site.title }}</title>
     <meta charset="utf-8" />
-    <link rel="shortcut icon" href="{{ '/public/favicon.ico' | relative_url }}" />
+    <link
+      rel="shortcut icon"
+      href="{{ '/public/favicon.ico' | relative_url }}"
+    />
     <link rel="manifest" href="{{ '/public/manifest.json' | relative_url }}" />
     <meta
       name="viewport"
@@ -61,8 +64,19 @@
             <a href="https://devedmonton.com">DES</a> with &hearts;.
           </li>
           <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-          <li><a href="{{ '/policies/privacy-policy.html' | relative_url }}">Privacy Policy</a></li>
-          <li>License: <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC Attrib-ShareAlike 4.0</a>.</li>
+          <li>
+            <a href="{{ '/policies/privacy-policy.html' | relative_url }}"
+              >Privacy Policy</a
+            >
+          </li>
+          <li>
+            License:
+            <a
+              rel="license"
+              href="http://creativecommons.org/licenses/by-sa/4.0/"
+              >CC Attrib-ShareAlike 4.0</a
+            >.
+          </li>
         </ul>
       </div>
     </footer>
