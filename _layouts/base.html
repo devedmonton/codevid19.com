@@ -53,6 +53,12 @@
           website_name: "CODEVID-19",
           cookies_policy_url: "https://codevid19.com/privacy-policy#usage-data",
         });
+
+        var consentText = $(".cc_dialog_text")[0];
+        consentText.textContent = consentText.textContent.replace(
+          ", to show you personalized content and targeted ads",
+          ""
+        );
       });
     </script>
 

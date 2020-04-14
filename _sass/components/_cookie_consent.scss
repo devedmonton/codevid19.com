@@ -1,0 +1,79 @@
+/* TermsFeed Cookie Consent overrides */
+
+// Pretty gnarly abuse of !important because TermsFeed injects their CSS after
+// DOM load and at the bottom.
+
+.cc_css_reboot {
+  font-family: _font(family) !important;
+
+  button {
+    border-radius: 3em !important;
+    padding: 0 0.75em !important;
+  }
+
+  select {
+    padding: 0 _size(element-height) 0 1em !important;
+  }
+}
+
+.cc_dialog {
+  &.simple {
+    max-width: unset !important;
+    width: 100%;
+  }
+
+  .cc_dialog_text {
+    font-size: 0.8em !important;
+  }
+
+  button {
+    letter-spacing: normal;
+  }
+}
+
+.cookie-consent-preferences-overlay
+  .cookie-consent-preferences-dialog
+  .cc_cp_container {
+  .cc_cp_footer {
+    .cc_cp_f_powered_by {
+      font-size: 0.8em !important;
+    }
+
+    .cc_cp_f_save button {
+      letter-spacing: normal;
+    }
+  }
+
+  .cc_cp_m_content .cc_cp_m_content_entry p {
+    font-size: 0.8em !important;
+  }
+}
+
+.dark.cc_dialog {
+  button {
+    &.cc_b_ok {
+      background-color: _palette(accent1) !important;
+    }
+
+    &.cc_b_cp {
+      background-color: transparent !important;
+    }
+  }
+}
+
+.dark.cookie-consent-preferences-overlay
+  .cookie-consent-preferences-dialog
+  .cc_cp_container {
+  .cc_cp_head .cc_cp_head_lang_selector select {
+    color: white !important;
+  }
+
+  .cc_cp_footer .cc_cp_f_save button {
+    background-color: _palette(accent1) !important;
+  }
+}
+
+div.cc_css_reboot {
+  // Having to override _their_ !important is extra-nasty
+  padding: _size(element-margin) !important;
+}
