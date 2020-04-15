@@ -13,7 +13,7 @@ The following are all **required** unless stated otherwise.
 
 1. URL to your working app (the website, or a TestFlight/Google Play opt-in link).
 1. URL to a screenshot we can share with voters and the media.
-1. The [CODEVID-19 problem](rules.html#the-problems) you're addressing.
+1. The [CODEVID-19 problem](rules#the-problems) you're addressing.
 1. Short description/pitch for your app we can share on Twitter and social media (140 characters or less)
 1. Long description/pitch for your app we can use to describe your app to voters, judges, and the media.
 1. Instructions for interacting with your app (if not included in the app itself).
