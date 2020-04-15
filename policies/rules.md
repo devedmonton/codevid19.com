@@ -97,7 +97,7 @@ Judging begins once project submissions close, and we're aiming to complete it w
 
 Prizes of monetary value will be distributed to winning teams electronically. All other prizes will be distributed in the manner deemed most appropriate by organizers and sponsors.
 
-Some sponsors may be given the opportunity award prizes during the course of the competition. These prizes will be communicated and awarded by sponsors in the manner they see fit, and subject to the rules and veto of the event organizers.
+Some sponsors may be given the opportunity to award prizes during the course of the competition. These prizes will be communicated and awarded by sponsors in the manner they see fit, and subject to the rules and veto of the event organizers.
 
 You will not receive any compensation or credit for the use of your Submission, other than what is described in these Official Rules.
 
