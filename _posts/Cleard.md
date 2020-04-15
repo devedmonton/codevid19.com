@@ -1,0 +1,65 @@
+---
+author: John
+title: Week four co-winner Get Cleard, works to improve global screening processes
+---
+
+![Get Cleard}(images/blog/Get Cleard.png)
+
+This week’s competition resulted in a tie-a first for our Codevid-19 global hackathon. Jaime Wood kindly offered to answer a few questions about her team’s entry, [Get Cleard](https://www.cleard.ai/).
+
+
+**Where did your idea come from and what problem are you trying to address?**
+
+Frustration and fear of the lack of enhanced screening at airports. There needs to be a global pandemic outbreak plan. Clearly there was almost nothing in place for the coronavirus. The world needs to be prepared and be able to predict the next crisis. 
+
+
+**Can you describe your project?**
+
+The Cleard AI platform reads data from infrared and visual cameras to detect and track sick people.The COVID-19 outbreak has exposed weak points in our global health system. Screening for fever and contagious viruses will become part of the new normal for travel, tourism, and mass event experiences, and will be vital for avoiding a worldwide pandemic in the future.  
+
+Today, there are no publicly available datasets on human thermal imagery, so we don’t have real data with which to train our AI. The purpose of entering the Codevid Hackathon was to kickstart the build of our MVP platform so we could be ready to receive real data from a field test. 
+
+The project involved:
+
+* Building our website cleared.ai
+* Building our machine learning algorithm and backend model
+* Building our front end user interface where administrators can load images and run analysis
+* Online survey conducted to understand user sentiment around screening at public events
+* Online survey to collect symptom data via non-contact QR code scan to be ready to receive field test users
+* Conducted socially distant thermal photography of friends and family to test our model  
+  
+**How did your team come together?**
+
+
+We met at the [Calgary Platform Accelerator](https://www.platformcalgary.com). Paul is in the current cohort, Jaime and Al are alumni. Paul was helping us optimize our workflow and find hardware solutions for our other company. When the lockdown happened, we were brainstorming ideas and Cleard became a thing. 
+
+**Where are your team members from?**
+
+We are all from Canada. 
+
+**What skills do they bring?**
+
+Enterprise architecture, cybersecurity, digital transformation, web, and social media are our main strengths.
+
+**How was the experience of working remotely?**
+
+Lots of calls and interruptions from kids. Tough to schedule time. 
+
+**How does it feel to be collaborating on a project at a time like this?**
+
+Both of our main industries are on hold, along with consulting projects. Everyone wants to contribute to the better good. Staying at home and on the couch is enough, but this helps to keep us motivated. 
+
+**What tools, made available by the hackathon, are you using?**
+
+
+Webinars, consulting with [Amii (Albera Machine Intelligence Institute)](https://www.amii.ca/), and the [*Slack*](https://app.slack.com/client/TV5MXDY8Z/G010HLYKF8V) channel. 
+
+**Is there anything else you’d like to say?**
+
+
+The outpouring of empathy and global cooperation is inspiring. Frontline workers from either end of the socioeconomic spectrum are risking their lives, and have become our leaders. We all hope the pain and suffering are not in vain, and that going forward this time of community, understanding, and respect continues; is not forgotten.  
+
+
+Website: [Get Cleard](https://www.cleard.ai/)<br>
+Source code: N/A<br>
+Country: Canada
