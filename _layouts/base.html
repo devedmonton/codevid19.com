@@ -55,10 +55,13 @@
         });
 
         var consentText = $(".cc_dialog_text")[0];
-        consentText.textContent = consentText.textContent.replace(
-          ", to show you personalized content and targeted ads",
-          ""
-        );
+
+        if (consentText && consentText.textContent) {
+          consentText.textContent = consentText.textContent.replace(
+            ", to show you personalized content and targeted ads",
+            ""
+          );
+        }
       });
     </script>
 
