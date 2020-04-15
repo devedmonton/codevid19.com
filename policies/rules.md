@@ -75,9 +75,9 @@ Teams of up to 5 people are welcome to participate. For legal reasons we require
 
 # Weekly Competitions
 
-For the majority of the event, teams may submit projects into a weekly competition. The winner is determined by a popular vote and announced Tuesdays.
+For the majority of the event, teams may submit projects into a weekly competition where the winner is determined by a popular vote. Teams must submit their apps by **Sunday, 23:59 UTC** and then the public has 24-hours from **Monday, 03:00 UTC** to **Tuesday, 03:00 UTC** to vote for their favourite. The winner will be announced by **Tuesday, 20:00 UTC**.
 
-Teams must submit their apps by **Sunday, 23:59 UTC** and then the public has 24-hours from **Monday, 03:00 UTC** to **Tuesday, 03:00 UTC** to vote for their favourite. The winner will be announced by **Tuesday, 20:00 UTC**.
+CODEVID-19 will run weekly competitions until **Sunday, April 19 at 23:59 UTC**.
 
 _This is a great opportunity to promote your project and CODEVID-19 to friends, family, and your network!_
 
