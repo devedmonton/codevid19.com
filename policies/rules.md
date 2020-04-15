@@ -85,11 +85,15 @@ _This is a great opportunity to promote your project and CODEVID-19 to friends, 
 
 # Final Competition
 
-Teams also have until April 30th at 23:59 UTC to submit their projects for consideration for the final prizes.
+Teams have until **Thursday, April 30th at 23:59 UTC** to submit their projects for the final competition. Judging and one final public vote will then commence to find our winners.
 
-These are larger prizes awarded to a winner and runner-up in four problem areas, as decided by a team of expert judges. There will also be final popular choice prize awarded at the end of the competition.
+## Problem Area Prizes (8 in total)
 
-Judging begins once project submissions close, and we're aiming to complete it within one week.
+Decided by a panel of expert judges, there are **8 prizes** up for grabs: 1 to a winner and 1 to a runner-up team in **each** of the **four problem areas**. Judging begins shortly after submission has closed. Although we aim to have judging wrap up within one week, we reserve the right to give our judges more time to evaluate the submissions.
+
+## Popular Choice Prize (1 in total)
+
+Similar to the weekly competitions, there will also be one final chance for the public to vote and award one team a prize at the end of the competition.
 
 [View final submission details](submissions.html#final-prize-submission)
 
