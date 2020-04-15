@@ -3,14 +3,11 @@ layout: default
 title: Submitting Your Project
 ---
 
-# Submission Details
-
-Before proceeding, ensure that you have read and understood the **[full rules!](rules.html)**
-
 ## Deliverables
 
 The following are all **required** unless stated otherwise.
 
+1. You have read and understood the **[full rules](rules)**.
 1. URL to your working app (the website, or a TestFlight/Google Play opt-in link).
 1. URL to a screenshot we can share with voters and the media.
 1. The [CODEVID-19 problem](rules#the-problems) you're addressing.
