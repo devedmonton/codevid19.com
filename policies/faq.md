@@ -13,16 +13,16 @@ Yes, you must be **13 years of age or older** at the time of entry. Being a glob
 
 #### What about Intellectual Property (IP)?
 
-*   The intellectual property of each project is owned by their respective teams.
-*   Teams that use someone else's assets (e.g. libraries, frameworks, source code, images, etc.) are responsible for abiding by each asset's usage rights. Failure to do so will **automatically disqualify** that team from current and future prize consideration.
-*   In case it wasn't clear, no stealing of others' intellectual property! Be 100% sure you are allowed to use something before you do.
-*   While not required during submission, teams must be ready to provide proof of fair use of intellectual property to judges and organizers upon request.
+- The intellectual property of each project is owned by their respective teams.
+- Teams that use someone else's assets (e.g. libraries, frameworks, source code, images, etc.) are responsible for abiding by each asset's usage rights. Failure to do so will **automatically disqualify** that team from current and future prize consideration.
+- In case it wasn't clear, no stealing of others' intellectual property! Be 100% sure you are allowed to use something before you do.
+- While not required during submission, teams must be ready to provide proof of fair use of intellectual property to judges and organizers upon request.
 
 #### Does our solution need to be open-source?
 
-*   No, not necessarily.
-*   For teams that choose to keep their solution proprietary, judges and organizers reserve the right to scrutinize the source code & other assets for compliance with usage rights.
-*   For all teams, failure to allow judges' and organizers' scrutiny may result in disqualification from prizing of any nature.
+- No, not necessarily.
+- For teams that choose to keep their solution proprietary, judges and organizers reserve the right to scrutinize the source code & other assets for compliance with usage rights.
+- For all teams, failure to allow judges' and organizers' scrutiny may result in disqualification from prizing of any nature.
 
 #### Can I work on a project I've already started before CODEVID-19?
 

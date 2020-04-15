@@ -3,34 +3,47 @@ layout: default
 title: CODEVID-19 Rules
 ---
 
-## Summary
+# Quick Links
+
+- [Submission Details](submissions.html)
+- [FAQs](faq.html)
+- [Code of Conduct](code-of-conduct.html)
+- Rules: you're in the right place.
+
+# Summary
 
 The CODEVID-19 Hackathon is divided into two phases. Weekly prizes are awarded until April 30th, when teams can submit their projects for the final prizes. Final prizes are awarded following a judging period.
 
-Projects compete in four problem areas, and are evaluated on effectiveness, accessibility, and impact.
+- All projects must be [registered on FindCollabs](https://findcollabs.com/hackathon/codevid-19-isp21fkqtjupchx7kjed) to be eligible
+- Team members must all be 13 years or older, and teams larger than 5 are ineligible for prizes.
+- In the spirit of hackathons, only apps that were started **on or after March 16, 00:00 UTC** will be considered for prizing.
+- You and your team retain full intellectual property rights during and after the competition.
+- Teams are responsible for following the licenses associated with the libraries, source code, and assets they use
+- By submitting your project, you grant the organizers, sponsors and partners the right to share information about your team and project (screenshots, descriptions, etc.) publicly. By sharing publicly, we can't make any guarantees or take responsibility for how shared content is used.
+- Organizers and judges reserve the right to disqualify entries and winners who violate the [Code of Conduct](/code-of-conduct.html) and [Rules](/policies/rules.html) outlined on this website
 
-### The Problems
+# The Problems
 
-We're passionate about improving the quality of life for people during and after the COVID-19 Pandemic by addressing the following problems:
+Projects compete in four problem areas, and are evaluated on effectiveness, accessibility, and impact. We're passionate about improving the quality of life for people during and after the COVID-19 Pandemic by addressing the following problems:
 
 1. Supporting Crisis Response
 2. Understanding The Pandemic
 3. Social Distancing & Isolation
 4. Scarcity & The Economy
 
-#### Supporting Crisis Response
+### Supporting Crisis Response
 
 First responders, healthcare workers and emergency response managers are on the front lines of the pandemic. How can we help to work more effectively, safely, and quickly?
 
 Examples of apps in this category might include services to crowd source reporting of crisis information, using machine learning and data science to quickly identify problems to be addressed, or allow more efficient distribution of health care and emergency resources.
 
-#### Understanding The Pandemic
+### Understanding The Pandemic
 
 How can we better understand the current state of the pandemic and make informed decisions about the future? How do we evaluate and trust the information around us?
 
 An app in this category might help provide verified answers to questions about COVID-19 and the pandemic, predict if the curve is being flattened, or help people report and filter out misinformation.
 
-#### Social Distancing & Isolation
+### Social Distancing & Isolation
 
 From working at home, assisting the elderly and at need, to entertaining and educating our children few parts of the pandemic more broadly impact society than the Social Isolation and Distancing we're all practicing.
 
@@ -38,39 +51,39 @@ How do we limit the impact and costs associated with Social Isolation and Distan
 
 Apps in this category might help connect people together, identify people in distress, facilitate remote working, on assist parents and educators continue classes.
 
-#### Scarcity & The Economy
+### Scarcity & The Economy
 
 Economics is the study of scarcity, and during the pandemic it's a struggle to understand the situation and how to most effectively use limited resources to maximum effect.
 
-How we better understand and manage the economic impacts, and use our resources most effectively to weather the largest economic change in modern history.
+How might we better understand and manage the economic impact, and use our resources most effectively, to weather the largest economic change in modern history?
 
-App in this category could include helping understand and manage changes in the work force, evaluate and track the effectiveness of government interventions, or better distribute scarce resources.
+Apps in this category could include helping understand and manage changes in the work force, evaluate and track the effectiveness of government interventions, or better distribute scarce resources.
 
-### Your Solution
+# Your Solution
 
 We believe faster, more effective and more available solutions are preferred to slower, less useful and limited ones.
 
-Therefore we will be judging projects on three main criteria:
+Therefore, we will be judging projects on three main criteria:
 
 1. **Effectiveness** - How well does this project address the problem it's attempting to solve?
 2. **Accessibility** - How easily are people are able to access this project?
 3. **Impact** - How many people have benefited from this project?
 
-### Your Team
+# Your Team
 
 Teams of up to 5 people are welcome to participate. For legal reasons we require that all team members be 13 years or older as of May 16th at 00:00 UTC if they wish to participate.
 
-### Weekly Competitions
+# Weekly Competitions
 
-For the majority of the event, teams may submit projects into a weekly competition. The winner is determined by a popular vote, and announced Tuesdays.
+For the majority of the event, teams may submit projects into a weekly competition. The winner is determined by a popular vote and announced Tuesdays.
 
 Teams must submit their apps by **Sunday, 23:59 UTC** and then the public has 24-hours from **Monday, 03:00 UTC** to **Tuesday, 03:00 UTC** to vote for their favourite. The winner will be announced by **Tuesday, 20:00 UTC**.
 
 _This is a great opportunity to promote your project and CODEVID-19 to friends, family, and your network!_
 
-[Submit your project for the weekly prizes](submissions.html#weekly-prize-submission)
+[View weekly submission details](submissions.html#weekly-prize-submission)
 
-### Final Competition
+# Final Competition
 
 Teams also have until April 30th at 23:59 UTC to submit their projects for consideration for the final prizes.
 
@@ -78,33 +91,33 @@ These are larger prizes awarded to a winner and runner-up in four problem areas,
 
 Judging begins once project submissions close, and we're aiming to complete it within one week.
 
-[Submit your project for the final prizes](submissions.html#final-prize-submission)
+[View final submission details](submissions.html#final-prize-submission)
 
-### Prizes
+# Prizes
 
 Prizes of monetary value will be distributed to winning teams electronically. All other prizes will be distributed in the manner deemed most appropriate by organizers and sponsors.
 
-Some sponsors may be given the opportunity award prizes during the course of the competition. These prizes will be communicated and awarded by sponsors in the manner they see fit, and subject to the rules and veto of the event organizers.
+Some sponsors may be given the opportunity to award prizes during the course of the competition. These prizes will be communicated and awarded by sponsors in the manner they see fit, and subject to the rules and veto of the event organizers.
 
 You will not receive any compensation or credit for the use of your Submission, other than what is described in these Official Rules.
 
-### Judging
+## Judging
 
-During the final prize round a team of expert judges will review each entry. Teams entering their projects for prizes will be expected to be available to answer judges questions via email, and if possible in person.
+During the final prize round a team of expert judges will review each entry. Teams entering their projects for prizes will be expected to be available to answer judges’ questions via email, and if possible, via video conferencing.
 
-Teams may also be asked to confidentially share source code and project details with judges so that they might better evaluate a projects merits.
+Teams may also be asked to confidentially share source code and project details with judges so that they might better evaluate a project’s merits.
 
-Failure to communicate or supply judges with access to a project could impact a projects success in the competition.
+Failure to communicate or supply judges with access to a project could impact a project’s success in the competition.
 
-### Intellectual Property
+# Intellectual Property
 
 All teams will continue to own the intellectual rights to their work and projects during and after this competition.
 
-Projects are encouraged to open source their code where applicable, but are not required to do so. During judging teams may be asked to provide judges access to source code to verify technical and other claims. Failure to do so could disadvantage or disqualify teams during judging, at the discretion of the judging committee and organizers.
+Projects are encouraged to open-source their code where applicable but are not required to do so. During judging teams may be asked to provide judges access to source code to verify technical and other claims. Failure to do so could disadvantage or disqualify teams during judging, at the discretion of the judging committee and organizers.
 
-Teams are welcome to use someone else's assets (e.g. libraries, frameworks, templates, source code, images, etc.) but are required to comply with the licenses for these assets. Teams may be asked to supply proof they have done so. Teams violating license and intellectual property rights of others my be disqualified and forfeit prizes awarded them.
+Teams are welcome to use someone else’s assets (e.g. libraries, frameworks, templates, source code, images, etc.) but are required to comply with the licenses for these assets. Teams may be asked to supply proof they have done so. Teams violating license and intellectual property rights of others may be disqualified and forfeit prizes awarded them.
 
-### Media Consent
+# Media Consent
 
 From time-to-time projects and other information about the Hackathon will be shared publicly via social and other media. We respect participants' right to [privacy](privacy-policy.html) and will not share personal information without prior consent.
 
@@ -114,19 +127,19 @@ By submitting a Submission, you grant the organizers, sponsor and the CODEVID-19
 
 Your Submission may be posted in public on the internet. We are not responsible for any unauthorized use of your submission or project by users of the CODEVID-19 website.
 
-### Communication Consent and Responsibilities
+## Communication Consent and Responsibilities
 
-By participating, participants agree to give organizers permission to contact them with information and communication relevant to CODEVID-19 via Slack, email, or other methods deemed appropriate by event organizers. This consent may be withdrawn at anytime be contacting contact@codevid19.com, or using the unsubscribe feature in the mailing list.
+By participating, participants agree to give organizers permission to contact them with information and communication relevant to CODEVID-19 via Slack, email, or other methods deemed appropriate by event organizers. This consent may be withdrawn at any time by contacting contact@codevid19.com or using the unsubscribe feature in the mailing list.
 
 Participants understand that by withdrawing their consent to communicate with organizers they will be putting themselves, their team, and their project at a competitive disadvantage. Organizers cannot be held responsible for participants receiving information supplied via email or Slack. It's a participant's responsibility to regularly check the website or Slack for updates should they choose to withdraw consent.
 
-### Competing In Other Events
+# Competing In Other Events
 
-Participation in other hackathons and events during this period does not disqualify you from participating in CODEVID-19. As long as your project and team meet the CODEVID-19 rules and conditions you're welcome to participate in CODEVID-19 and submit your projects like other teams.
+Participation in other hackathons and events during this period does not disqualify you from participating in CODEVID-19. As long as you, your project and your team meet CODEVID-19's full rules and code of conduct, you're welcome to participate in CODEVID-19 and submit your project.
 
-Note that all teams must join the Hackathon on FindCollabs and list their projects there before submitting if they'd like to be considered for weekly or final prizes.
+Note that all teams must join the Hackathon on [FindCollabs](https://findcollabs.com/hackathon/codevid-19-isp21fkqtjupchx7kjed) and list their projects there before submitting if they'd like to be considered for weekly or final prizes.
 
-## The Fine Print
+# The Fine Print
 
 These are all the details most people don't care to read, but our lawyers make us put in anyway just to keep us out of trouble.
 
@@ -142,24 +155,20 @@ All participants, organizers, sponsors and contributors agree to follow the CODE
 
 Participants are welcome to use any language they deem most appropriate for their application, however CODEVID-19 reserves the right to only accept submissions in English, or where an English translation is provided, should a project wish to be considered for prizes.
 
-To participate, team members must be at least 13 years of ago at the time the competition started on March 16th at 00:00 UTC. To be considered for prizes, teams must include no more than 5 people.
+To participate, team members must be at least 13 years of age at the time the competition started on March 16th at 00:00 UTC. To be considered for prizes, teams must include no more than 5 people.
 
-Prizes amounts and types will be determined at the discretion of organizers and event sponsors, and distributed in a manner they see fit.
+Prizes amounts and types will be determined at the discretion of organizers and event sponsors and distributed in a manner they see fit.
 
 In the event of a tie for a prize awarded by vote, then the winner will be deemed the first project to receive their final vote. If this does not resolve the tie, the organizers reserve the right to determine a winner based on their judgement. The organizers will strive to do so in an appropriate, fair and impartial manner.
 
 If you've made it this far, you're awesome. Ping @Mark on Slack and say hello! :)
 
-## Frequently Asked Questions (FAQs)
-
-[We've got a whole page devoted to frequently asked questions!](faq.html)
-
-## Acknowledgements
+# Acknowledgements
 
 A big thank you to all these groups who contributed ideas and references to these rules!
 
-- https://github.com/MLH/mlh-hackathon-rules/blob/master/Rules.md
-- https://covid-global-hackathon.devpost.com/rules
-- https://valleyhackathon.com/RulesandCodeofConduct
-- https://hosthelp.globallegalhackathon.com/category/17-schedule-and-rules
-- https://hackathon.guide/
+- [MLH Hackathon Rules](https://github.com/MLH/mlh-hackathon-rules/)
+- [COVID Global Hackathon](https://covid-global-hackathon.devpost.com/rules)
+- [Valley Hackathon](https://valleyhackathon.com/RulesandCodeofConduct)
+- [Global Legal Hackathon](https://hosthelp.globallegalhackathon.com/category/17-schedule-and-rules)
+- [Hackathon.guide](<https://hackathon.guide/)
