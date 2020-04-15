@@ -21,15 +21,15 @@ The following are all **required** unless stated otherwise.
 1. URL to your project on [FindCollabs](https://findcollabs.com/hackathon/codevid-19-isp21fkqtjupchx7kjed)
 1. **(Optional)** For open-source projects, we encourage a link to the source code repository (e.g. GitHub, GitLab, Bitbucket, etc.).
 
-### Weekly Prize Submission
+### Weekly Competition Submission
 
 - Your submission does not need to be complete, but you must be able to demonstrate it.
 - Teams may submit their projects for multiple weekly considerations; however, new progress must be demonstrated leading up to each submission.
 - Be sure to review the [Deliverables](#deliverables) and have them ready before we close submissions!
 
-### Final Prize Submission
+### Final Competition Submission
 
-When submitting for final consideration, teams must also include:
+Along with the [Deliverables](#deliverables) above, teams **must also include the following** when submitting for final consideration:
 
 - A link to a short pitch and demo (3 minutes or less) that clearly explains:
   1. The problem being solved
