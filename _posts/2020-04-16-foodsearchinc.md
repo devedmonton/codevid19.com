@@ -29,7 +29,7 @@ Tyler Findlay and I are from Edmonton.
 
 **Can you describe the skills you bring to the project?**
 
-Tyler, the technical co-founder is a full-stack software developer and scrum master. I am a non-technical co-founder, and manage the operational and business development side.
+Tyler, the technical co-founder is a full-stack software developer and Scrum master. I am a non-technical co-founder, and manage the operational and business development side.
 
 **How does it feel to be collaborating on a project at a time like this?**
 
