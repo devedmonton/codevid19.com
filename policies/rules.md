@@ -27,9 +27,9 @@ The CODEVID-19 Hackathon is divided into two phases. Weekly prizes are awarded u
 Projects compete in four problem areas, and are evaluated on effectiveness, accessibility, and impact. We're passionate about improving the quality of life for people during and after the COVID-19 Pandemic by addressing the following problems:
 
 1. Supporting Crisis Response
-2. Understanding The Pandemic
+2. Understanding the Pandemic
 3. Social Distancing & Isolation
-4. Scarcity & The Economy
+4. Scarcity & the Economy
 
 ### Supporting Crisis Response
 
@@ -37,7 +37,7 @@ First responders, healthcare workers and emergency response managers are on the 
 
 Examples of apps in this category might include services to crowd source reporting of crisis information, using machine learning and data science to quickly identify problems to be addressed, or allow more efficient distribution of health care and emergency resources.
 
-### Understanding The Pandemic
+### Understanding the Pandemic
 
 How can we better understand the current state of the pandemic and make informed decisions about the future? How do we evaluate and trust the information around us?
 
@@ -51,7 +51,7 @@ How do we limit the impact and costs associated with Social Isolation and Distan
 
 Apps in this category might help connect people together, identify people in distress, facilitate remote working, on assist parents and educators continue classes.
 
-### Scarcity & The Economy
+### Scarcity & the Economy
 
 Economics is the study of scarcity, and during the pandemic it's a struggle to understand the situation and how to most effectively use limited resources to maximum effect.
 
@@ -133,7 +133,7 @@ By participating, participants agree to give organizers permission to contact th
 
 Participants understand that by withdrawing their consent to communicate with organizers they will be putting themselves, their team, and their project at a competitive disadvantage. Organizers cannot be held responsible for participants receiving information supplied via email or Slack. It's a participant's responsibility to regularly check the website or Slack for updates should they choose to withdraw consent.
 
-# Competing In Other Events
+# Competing in Other Events
 
 Participation in other hackathons and events during this period does not disqualify you from participating in CODEVID-19. As long as you, your project and your team meet CODEVID-19's full rules and code of conduct, you're welcome to participate in CODEVID-19 and submit your project.
 
