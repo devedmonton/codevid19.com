@@ -28,7 +28,7 @@
       border-left: solid 1px _palette(border);
     }
 
-    .icon {
+    > .icon {
       @include vendor(
         "transition",
         (
@@ -46,7 +46,7 @@
 
     @for $i from 1 through _misc(max-features) {
       &:nth-child(#{$i}) {
-        .icon {
+        > .icon {
           @include vendor(
             "transition-delay",
             "#{(_duration(transition) * 0.75 * $i)}"
@@ -58,7 +58,7 @@
 
   &.inactive {
     section {
-      .icon {
+      > .icon {
         @include vendor("transform", "scale(0.5)");
         opacity: 0;
       }
@@ -83,7 +83,7 @@
     section {
       @include padding(2em, 1.5em, (0.5em, 0, 0, 4em));
 
-      .icon {
+      > .icon {
         left: 1.5em;
         top: 2em;
       }
@@ -94,7 +94,7 @@
     section {
       @include padding(2em, 1.5em, (0, 0, 0, 0));
 
-      .icon {
+      > .icon {
         left: 0;
         position: relative;
         top: 0;
