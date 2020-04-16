@@ -5,7 +5,6 @@ title: foodsearchinc.com connects customers & restaurants during pandemic
 
 A co-winner of our week four competition, [foodsearchinc.com](https://foodsearchinc.com/), hopes to connect people to comprehensive information about the food they desire, and how to easily locate it. 
 
-
 <img src="/images/blog/foodsearchinc.png" alt="Get Cleard" style="max-width: 100%;">
 
 Many thanks to [Vinson Luong]( https://www.linkedin.com/in/vinson-luong-b4682662/) for sharing the story of foodsearchinc.com with us.  The responses are his, lightly edited for length and style.
