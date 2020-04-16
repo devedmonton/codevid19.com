@@ -75,9 +75,9 @@ Teams of up to 5 people are welcome to participate. For legal reasons we require
 
 # Weekly Competitions
 
-For the majority of the event, teams may submit projects into a weekly competition. The winner is determined by a popular vote and announced Tuesdays.
+For the majority of the event, teams may submit projects into a weekly competition where the winner is determined by a popular vote. Teams must submit their apps by **Sunday, 23:59 UTC** and then the public has 24-hours from **Monday, 03:00 UTC** to **Tuesday, 03:00 UTC** to vote for their favourite. The winner will be announced by **Tuesday, 20:00 UTC**.
 
-Teams must submit their apps by **Sunday, 23:59 UTC** and then the public has 24-hours from **Monday, 03:00 UTC** to **Tuesday, 03:00 UTC** to vote for their favourite. The winner will be announced by **Tuesday, 20:00 UTC**.
+CODEVID-19 will run weekly competitions until **Sunday, April 19 at 23:59 UTC**.
 
 _This is a great opportunity to promote your project and CODEVID-19 to friends, family, and your network!_
 
@@ -85,11 +85,15 @@ _This is a great opportunity to promote your project and CODEVID-19 to friends, 
 
 # Final Competition
 
-Teams also have until April 30th at 23:59 UTC to submit their projects for consideration for the final prizes.
+Teams have until **Thursday, April 30th at 23:59 UTC** to submit their projects for the final competition. Judging and one final public vote will then commence to find our winners.
 
-These are larger prizes awarded to a winner and runner-up in four problem areas, as decided by a team of expert judges. There will also be final popular choice prize awarded at the end of the competition.
+## Problem Area Prizes (8 in total)
 
-Judging begins once project submissions close, and we're aiming to complete it within one week.
+Decided by a panel of expert judges, there are **8 prizes** up for grabs: 1 to a winner and 1 to a runner-up team in **each** of the **four problem areas**. Judging begins shortly after submission has closed. Although we aim to have judging wrap up within one week, we reserve the right to give our judges more time to evaluate the submissions.
+
+## Popular Choice Prize (1 in total)
+
+Similar to the weekly competitions, there will also be one final chance for the public to vote and award one team a prize at the end of the competition.
 
 [View final submission details](submissions.html#final-prize-submission)
 
