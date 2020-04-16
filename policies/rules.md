@@ -89,7 +89,7 @@ Teams have until **Thursday, April 30th at 23:59 UTC** to submit their projects 
 
 ## Problem Area Prizes (8 in total)
 
-Decided by a panel of expert judges, there are **8 prizes** up for grabs: 1 to a winner and 1 to a runner-up team in **each** of the **four problem areas**. Judging begins shortly after submission has closed. Although we aim to have judging wrap up within one week, we reserve the right to give our judges more time to evaluate the submissions.
+Decided by a panel of expert judges, there are **8 prizes** up for grabs: 1 to a winner and 1 to a runner-up team in **each** of the **four [problem areas](rules#the-problems)**. Judging begins shortly after submission has closed. Although we aim to have judging wrap up within one week, we reserve the right to give our judges more time to evaluate the submissions.
 
 ## Popular Choice Prize (1 in total)
 
