@@ -1,6 +1,6 @@
 ---
 author: John
-title: foodsearchinc.com connects customers & restaurants during pandemic
+title: foodsearchinc.com Connects Customers & Restaurants During Pandemic
 ---
 
 A co-winner of our week four competition, [foodsearchinc.com](https://foodsearchinc.com/), hopes to connect people to comprehensive information about the food they desire, and how to easily locate it. 
