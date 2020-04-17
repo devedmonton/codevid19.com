@@ -41,9 +41,9 @@ Rewarding, and solving a problem in real time while speaking with over 400 resta
 
 **Is there anything else you’d like to say?**
 
-Thank you to the team that put Codevid-19 together! It’s such an amazing initiative for creating projects to help out during these uncertain times.
+Thank you to the team that put CODEVID-19 together! It’s such an amazing initiative for creating projects to help out during these uncertain times.
 
-Thank you from Codevid-19 for your fine effort, and best of luck in the future.
+Thank you from CODEVID-19 for your fine effort, and best of luck in the future.
 
 Website: [foodsearchinc.com](https://foodsearchinc.com/)<br>
 Source code: N/A<br>
