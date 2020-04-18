@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:How to Win a Hackathon
+X-WR-TIMEZONE:America/Edmonton
+BEGIN:VEVENT
+DTSTART:20200421T230000Z
+DTEND:20200422T000000Z
+DTSTAMP:20200418T224747Z
+ORGANIZER;CN=How to Win a Hackathon:mailto:devedmonton.com_3cpmp2c3lki6etss
+ 53o954181o@group.calendar.google.com
+UID:4suhrvemc980dqjav6eevb1qbu@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=pa
+ t@devedmonton.com;X-NUM-GUESTS=0:mailto:pat@devedmonton.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=be
+ n@zittlau.ca;X-NUM-GUESTS=0:mailto:ben@zittlau.ca
+CREATED:20200418T224544Z
+DESCRIPTION:Ben has designed and run dozens of hackathons\, frequently volu
+ nteers as a mentor or speaker at hackathons\, has judged many hackathons\, 
+ and won $15k USD at a Quickbooks conference hackathon\, as well as thousand
+ s dollars in prizes from other hackathons.  He’ll provide you with some #pr
+ otips to give your submission the best chance to standout and be successful
+ .  You’ve worked hard on your submission\, make sure you give it the best c
+ hance to speak for itself!\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section
+  of the description.\n\nThis event has a video call.\nJoin: https://meet.go
+ ogle.com/jfd-xntj-okz\n+1 226-315-7145 PIN: 597126629#\nView more phone num
+ bers: https://tel.meet/jfd-xntj-okz?pin=8917357191095&hs=7\n-::~:~::~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20200418T224544Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:"How to win at a hackathon" by Ben Zittlau
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
