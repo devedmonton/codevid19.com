@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:How to Win a Hackathon
 X-WR-TIMEZONE:America/Edmonton
 BEGIN:VEVENT
-DTSTART:20200421T230000Z
-DTEND:20200422T000000Z
-DTSTAMP:20200418T224747Z
+DTSTART:20200425T170000Z
+DTEND:20200425T180000Z
+DTSTAMP:20200420T175004Z
 ORGANIZER;CN=How to Win a Hackathon:mailto:devedmonton.com_3cpmp2c3lki6etss
  53o954181o@group.calendar.google.com
 UID:4suhrvemc980dqjav6eevb1qbu@google.com
@@ -29,9 +29,9 @@ DESCRIPTION:Ben has designed and run dozens of hackathons\, frequently volu
  ogle.com/jfd-xntj-okz\n+1 226-315-7145 PIN: 597126629#\nView more phone num
  bers: https://tel.meet/jfd-xntj-okz?pin=8917357191095&hs=7\n-::~:~::~:~:~:~
  :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
-LAST-MODIFIED:20200418T224544Z
+LAST-MODIFIED:20200420T174925Z
 LOCATION:
-SEQUENCE:0
+SEQUENCE:1
 STATUS:CONFIRMED
 SUMMARY:"How to win at a hackathon" by Ben Zittlau
 TRANSP:OPAQUE
