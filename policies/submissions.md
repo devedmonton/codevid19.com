@@ -28,7 +28,7 @@ The following are all **required** unless stated otherwise.
 
 Along with the [Deliverables](#deliverables) above, teams **must also include the following** when submitting for final consideration:
 
-- A link to a short pitch and demo (3 minutes or less) that clearly explains:
+- A **[public/unlisted](https://support.google.com/youtube/answer/157177?co=GENIE.Platform%3DDesktop&hl=en) YouTube URL** to your pitch and demo (**3 minutes or less**) that clearly explains:
   1. The problem being solved
   1. How to use the app
   1. Any unique features or information pertinent to the judging
