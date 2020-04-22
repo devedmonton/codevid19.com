@@ -89,11 +89,11 @@ Teams have until **Thursday, April 30th at 23:59 UTC** to submit their projects 
 
 ## Problem Area Prizes (8 in total)
 
-Decided by a panel of expert judges, there are **8 prizes** up for grabs: 1 to a winner and 1 to a runner-up team in **each** of the **four [problem areas](rules#the-problems)**. Judging begins shortly after submission has closed. Although we aim to have judging wrap up within one week, we reserve the right to give our judges more time to evaluate the submissions.
+Decided by a panel of expert judges, there are **8 prizes** up for grabs: 1 to a winner and 1 to a runner-up team in **each** of the **four [problem areas](rules#the-problems)**. The runner-up prizes will consist of recognition, possibility of local news interview, marketing and some ongoing supports from organizers which will be determined on a team by team basis. The winning prizes will include all mentioned as well as a monetary prize. Judging begins shortly after submission has closed. Although we aim to have judging wrap up within one week, we reserve the right to give our judges more time to evaluate the submissions.
 
 ## Popular Choice Prize (1 in total)
 
-Similar to the weekly competitions, there will also be one final chance for the public to vote and award one team a prize at the end of the competition.
+Similar to the weekly competitions, there will also be one final chance for the public to vote and award one team a prize at the end of the competition. This will be a monetary prize. 
 
 [View final submission details](submissions.html#final-prize-submission)
 
