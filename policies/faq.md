@@ -52,6 +52,12 @@ Participants and volunteers must abide by and uphold the [Code of Conduct](code-
 
 Double-check with them, but we are running in UTC. Check [here](https://www.timeanddate.com/worldclock/) to see what that is relative to your local time.
 
+#### What are the final prizes?
+
+We've got [a section on the final prizes in the rules with all the details](https://codevid19.com/policies/rules#problem-area-prizes-4-in-total).
+
+Basically, it takes a while to do the paperwork and bank transfers to collect the prize money. Normally, we'd do this in advance of a hackathon but it we'd done that we still wouldn't have started. Instead we're giving sponsors until the end of May to get their money in, then will divide what's in the pot amongst the winners at the start of June.
+
 #### I still have questions. Who can I ask?
 
 Organizers are active on [Slack](https://codevid-19.slack.com). Please join us [here](https://join.slack.com/t/codevid-19/shared_invite/zt-dcs1sv47-TXkkSa8vg0uAq5wv1SMnMQ) and look for people whose profiles say "Organizer" under their names. You can also contact us via email at [contact@codevid19.com](mailto:contact@codevid19.com) or reach out via [Twitter](https://twitter.com/codevid19)
