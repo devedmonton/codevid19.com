@@ -16,6 +16,16 @@ The following are all **required** unless stated otherwise.
 1. URL to your project on [FindCollabs](https://findcollabs.com/hackathon/codevid-19-isp21fkqtjupchx7kjed)
 1. **(Optional)** For open-source projects, we encourage a link to the source code repository (e.g. GitHub, GitLab, Bitbucket, etc.).
 
+### Final Competition Submission
+
+Along with the [Deliverables](#deliverables) above, teams **must also include the following** when submitting for final consideration:
+
+- A **[public/unlisted](https://support.google.com/youtube/answer/157177?co=GENIE.Platform%3DDesktop&hl=en) YouTube URL** to your pitch and demo (**3 minutes or less, see ["Pitch Video"](#pitch-video) for details and hints**)
+- When submitting projects for final consideration, please ensure that the team is available during the judging period to answer questions about your project.
+- During final judging some teams may be asked to meet with the judges via video conference. Please ensure some or all team members are available.
+- Failure to communicate and answer questions from the judges may disadvantage your project's placement in the competition and could disqualify you from prizes.
+- Projects may only be submitted for consideration in one prize category at a time, however you can submit your project multiple times and apply for more than one prize.
+
 ### Weekly Competition Submission
 
 Along with the [Deliverables](#deliverables) above, teams **must also include the following** when submitting for weekly consideration:
@@ -28,16 +38,6 @@ Please remember:
 - Your submission does not need to be complete, but you must be able to demonstrate it.
 - Teams may submit their projects for multiple weekly considerations; however, new progress must be demonstrated leading up to each submission.
 - Be sure to review the [Deliverables](#deliverables) and have them ready before we close submissions!
-
-### Final Competition Submission
-
-Along with the [Deliverables](#deliverables) above, teams **must also include the following** when submitting for final consideration:
-
-- A **[public/unlisted](https://support.google.com/youtube/answer/157177?co=GENIE.Platform%3DDesktop&hl=en) YouTube URL** to your pitch and demo (**3 minutes or less, see ["Pitch Video"](#pitch-video) for details and hints**)
-- When submitting projects for final consideration, please ensure that the team is available during the judging period to answer questions about your project.
-- During final judging some teams may be asked to meet with the judges via video conference. Please ensure some or all team members are available.
-- Failure to communicate and answer questions from the judges may disadvantage your project's placement in the competition and could disqualify you from prizes.
-- Projects may only be submitted for consideration in one prize category at a time, however you can submit your project multiple times and apply for more than one prize.
 
 ## Pitch Video
 
