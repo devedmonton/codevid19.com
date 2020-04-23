@@ -87,9 +87,9 @@ _This is a great opportunity to promote your project and CODEVID-19 to friends, 
 
 Teams have until **Thursday, April 30th at 23:59 UTC** to submit their projects for the final competition. Judging and one final public vote will then commence to find our winners.
 
-## Problem Area Prizes (8 in total)
+## Problem Area Prizes (4 in total)
 
-Decided by a panel of expert judges, there are **8 prizes** up for grabs: 1 to a winner and 1 to a runner-up team in **each** of the **four [problem areas](rules#the-problems)**. The runner-up prizes will consist of recognition, possibility of local news interview, marketing and some ongoing supports from organizers which will be determined on a team by team basis. The winning prizes will include all mentioned as well as a monetary prize. Judging begins shortly after submission has closed. Although we aim to have judging wrap up within one week, we reserve the right to give our judges more time to evaluate the submissions.
+Decided by a panel of expert judges, there are **4 prizes** up for grabs: 1 to a winning team in **each** of the **four [problem areas](rules#the-problems)**. While runner-ups will not receive prizing, we will recognize one in each of the problem areas.  Although we aim to have judging wrap up around mid to late-May, we reserve the right to give our judges, sponsors and organizers enough time to evaluate submissions and work through logistics.
 
 ## Popular Choice Prize (1 in total)
 
