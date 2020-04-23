@@ -3,6 +3,10 @@ layout: default
 title: Submitting Your Project
 ---
 
+<ul class="actions stacked">
+  <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScWF9MhqdeMavKlrW77RXGW1upHgNc61wHMIoLkOOTb9soaGA/viewform?usp=sf_link" class="button primary fit">Final Submissions Open Now!!</a></li>
+</ul>
+
 ## Deliverables
 
 The following are all **required** unless stated otherwise.
@@ -25,6 +29,8 @@ Along with the [Deliverables](#deliverables) above, teams **must also include th
 - During final judging some teams may be asked to meet with the judges via video conference. Please ensure some or all team members are available.
 - Failure to communicate and answer questions from the judges may disadvantage your project's placement in the competition and could disqualify you from prizes.
 - Projects may only be submitted for consideration in one prize category at a time, however you can submit your project multiple times and apply for more than one prize.
+
+We want you to know that sponsors have until the end of May 2020 to deposit funds in our accounts. Prize amounts will be announced at the start of June once funds are received and we hope to get all **prizes out by the end of July 2020**. [Read the full rules for details.](./rules)
 
 ### Weekly Competition Submission
 

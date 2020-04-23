@@ -91,6 +91,8 @@ Teams have until **Thursday, April 30th at 23:59 UTC** to submit their projects 
 
 Decided by a panel of expert judges, there are **8 prizes** up for grabs: 1 to a winner and 1 to a runner-up team in **each** of the **four [problem areas](rules#the-problems)**. Judging begins shortly after submission has closed. Although we aim to have judging wrap up within one week, we reserve the right to give our judges more time to evaluate the submissions.
 
+Like many things related to COVID-19 we've had to do things a little differently with this hackathon. In more conventional circumstances we'd have raised all prize money prior to the event. Instead, we've been actively working on your behalf to fundraise prize money during the course of this competition. The reality has been that with paperwork, busy lives, and wire transfer delays it takes longer than a month to get the money from sponsors and into our bank accounts. Anyone who's organized events like this will know this is normal, but to ensure sponsors have the required time to get funds to us we've set a deadline of May 31st at 23:59 UTC for funds to be received. After this we'll subtract expenses for running this event, keep a small reservce for unplanned expenses, and then divide the remainder amongst the winners. Should any funds remain, we'll donate them to a COVID-19 charity. With this in mind, we want teams to know that we won't start sending out prize money until June 2020 and will hope to get it done before the start of July 2020.
+
 ## Popular Choice Prize (1 in total)
 
 Similar to the weekly competitions, there will also be one final chance for the public to vote and award one team a prize at the end of the competition.
