@@ -97,7 +97,7 @@ Like many things related to COVID-19 we've had to do things a little differently
 
 Similar to the weekly competitions, there will also be one final chance for the public to vote and award one team a monetary prize at the end of the competition.
 
-[View final submission details](submissions.html#final-prize-submission)
+[View final submission details](submissions.html#final-competition-submission)
 
 # Prizes
 
