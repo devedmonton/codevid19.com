@@ -11,6 +11,10 @@ Up to 5 people, if you're looking to submit your project for the weekly and/or f
 
 Yes, you must be **13 years of age or older** at the time of entry. Being a global hackathon, we have to comply with many policies around the world, such as the FTC's [COPPA](https://www.ftc.gov/tips-advice/business-center/guidance/childrens-online-privacy-protection-rule-six-step-compliance).
 
+#### Is there a schedule of events?
+
+Please view our calendar [here](https://calendar.google.com/calendar/embed?src=devedmonton.com_ft8nocl5co97950t7ka1q4brm8%40group.calendar.google.com&ctz=America%2FEdmonton) or add it to your calendar [here](https://calendar.google.com/calendar/b/4?cid=ZGV2ZWRtb250b24uY29tX2Z0OG5vY2w1Y285Nzk1MHQ3a2ExcTRicm04QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
+
 #### What about Intellectual Property (IP)?
 
 - The intellectual property of each project is owned by their respective teams.
@@ -26,11 +30,11 @@ Yes, you must be **13 years of age or older** at the time of entry. Being a glob
 
 #### Can I work on a project I've already started before CODEVID-19?
 
-That's fine, however only projects that were started **on or after March 16, 00:00 UTC** can be submitted for prizing considerations. See [Submissions](#submission) for more details.
+That's fine, however only projects that were started **on or after March 16, 00:00 UTC** can be submitted for prizing considerations. See [Submissions](submissions.html) for more details.
 
 #### When do sign-ups start? When do they end?
 
-Sign-ups have started! Register on [FindCollabs](https://findcollabs.com/hackathon/codevid-19-isp21fkqtjupchx7kjed) and [join](https://join.slack.com/t/codevid-19/shared_invite/zt-dcs1sv47-TXkkSa8vg0uAq5wv1SMnMQ) our [Slack](https://codevid-19.slack.com). We will close sign-ups one week prior to the [final submission date](#submission).
+Sign-ups have started! Register on [FindCollabs](https://findcollabs.com/hackathon/codevid-19-isp21fkqtjupchx7kjed) and [join](https://join.slack.com/t/codevid-19/shared_invite/zt-dcs1sv47-TXkkSa8vg0uAq5wv1SMnMQ) our [Slack](https://codevid-19.slack.com). We will close sign-ups one day prior to the final submission date (April 30th 23:59 UTC).
 
 #### Do you have datasets and other resources we could start from?
 
