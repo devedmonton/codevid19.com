@@ -3,8 +3,15 @@ layout: default
 title: Submitting Your Project
 ---
 
-<ul class="actions stacked">
-  <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScWF9MhqdeMavKlrW77RXGW1upHgNc61wHMIoLkOOTb9soaGA/viewform?usp=sf_link" class="button primary fit">Final Submissions Open Now!!</a></li>
+<ul class="actions fit">
+  <li>
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLScWF9MhqdeMavKlrW77RXGW1upHgNc61wHMIoLkOOTb9soaGA/viewform?usp=sf_link"
+      class="button primary fit icon solid fa-external-link-alt"
+      target="_blank"
+    >
+      Final Submission is Open!
+    </a>
+  </li>
 </ul>
 
 ## Deliverables
@@ -24,7 +31,7 @@ The following are all **required** unless stated otherwise.
 
 Along with the [Deliverables](#deliverables) above, teams **must also include the following** when submitting for final consideration:
 
-- A **[public/unlisted](https://support.google.com/youtube/answer/157177?co=GENIE.Platform%3DDesktop&hl=en) YouTube URL** to your pitch and demo (**3 minutes or less, see ["Pitch Video"](#pitch-video) for details and hints**)
+- A **[public/unlisted](https://support.google.com/youtube/answer/157177?co=GENIE.Platform%3DDesktop&hl=en) YouTube URL** to your pitch and demo (**3 minutes or less**, see **[Pitch Video](#pitch-video)** for details and hints)
 - When submitting projects for final consideration, please ensure that the team is available during the judging period to answer questions about your project.
 - During final judging some teams may be asked to meet with the judges via video conference. Please ensure some or all team members are available.
 - Failure to communicate and answer questions from the judges may disadvantage your project's placement in the competition and could disqualify you from prizes.
@@ -47,26 +54,34 @@ Please remember:
 
 ## Pitch Video
 
-We've prepared a short video (under 3 minutes!) that both explains what you should do in your pitch video, and serves as an example of the type of video we're looking for. [Read the slides I shared in the video](https://docs.google.com/presentation/d/1KsrRGj08XK-x3RKgTIdWszW2jqMSmqdLFCTlsT8l3Xw/edit?usp=sharing).
+We've prepared a short, under-3-minute video that explains what you should do in your pitch video. It also serves as an example of the type of video we're looking for. [Read the slides](https://docs.google.com/presentation/d/1KsrRGj08XK-x3RKgTIdWszW2jqMSmqdLFCTlsT8l3Xw/edit?usp=sharing) from the video.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rA1y1oKQ4a4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe
+  style="margin-bottom: 2em"
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/rA1y1oKQ4a4" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen 
+></iframe>
 
-The key takeaways are:
+### Key Takeaways
 
 1. Pretend you're talking to a room full of judges at the end of an in-person hackathon.
-1. Don't worry about production quality. Focus on being clear, and convincing.
-1. You don't need to speak or use a webcam, subtitles or descriptive text are ok. The judges understand that English is not everyone's first language.
-1. If you do use a webcam and microphone please try to use proper lighting and a quality external microphone or headset. Stand up while you speak if possible.
-1. Record mobile apps using a simulator on your desktop or the recorder on your device.
-1. Open Broadcaster Studio is a great cross platform recording tool, but Mac and Windows have screen recording built in as well.
-1. Only [PUBLIC or UNLISTED YouTube videos](https://support.google.com/youtube/answer/157177?co=GENIE.Platform%3DDesktop&hl=en) under 3 minutes that don't require signing in to view will be accepted
+1. Don't worry about production quality. Focus on being clear and convincing.
+1. You don't need to speak or use a webcam: subtitles and descriptive text are okay. The judges understand that English is not everyone's first language.
+1. If you do use a webcam and microphone, please try to use proper lighting and a quality external microphone or headset. Stand up while you speak if possible.
+1. Record mobile apps using a simulator on your desktop or a screen recording app on your device.
+1. [Open Broadcaster Studio](https://obsproject.com/) is a great cross platform recording tool, but Mac and Windows have screen recording built in as well.
+1. We will only accept **[public/unlisted](https://support.google.com/youtube/answer/157177?co=GENIE.Platform%3DDesktop&hl=en)** YouTube videos 3 minutes or under.
 
-In terms of content please make sure you:
+### Video Content
 
-1. Clearly say the name of your project and how to access it
-1. Explain the problem you're solving and which problem area you're competing in
+1. Clearly state the name of your project and how to access it
+1. Explain the problem you're solving and which [problem area](rules#the-problems) you're competing in
 1. Explain how your project effectively solves your problem
 1. Explain how your project has been made accessible to as many people as possible
 1. Explain the impact your project has had (people helped to date, lives saved, businesses, etc.)
-1. Ideally, your project should be easy enough to use that it doesn't require directions but if it does please demonstrate for the judges.
-1. At the end mention again how to try your app and how to get help from your team
+1. Ideally, your project should be easy enough to use that it doesn't require directions. Otherwise, please demonstrate for the judges.
+1. At the end, mention again where to try your app and how to get help from your team
