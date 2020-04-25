@@ -3,7 +3,7 @@ author: John
 title: Charity Shop Exchange
 ---
 
-A large helping of thank-you to [Blake Prouty](https://twitter.com/BlakeNthaniel) for giving us insight into his team’s [Charity Shop Exchange](https://charityshopexchange.com) project. Blake is an unlikely hockey fan who hails from South Dakota, and cheers for the Calgary Flames. This is no place for hockey rivalry, so without further ado here are his thoughts on the project.
+A large helping of thank-you to [Blake Prouty](https://www.linkedin.com/mwlite/in/blakenp) for giving us insight into his team’s [Charity Shop Exchange](https://charityshopexchange.com) project. Blake is an unlikely hockey fan who hails from South Dakota, and cheers for the Calgary Flames. This is no place for hockey rivalry, so without further ado here are his thoughts on the project.
 
 <span class="image right">
     <img src="/images/blog/charity-shop-exchange.png" alt="Charity Shop Exchange">
