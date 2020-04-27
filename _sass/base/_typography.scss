@@ -171,6 +171,10 @@ blockquote {
   margin: 0 0 _size(element-margin) 0;
   padding: (_size(element-margin) / 4) 0 (_size(element-margin) / 4)
     _size(element-margin);
+
+  p {
+    margin: 0;
+  }
 }
 
 code {
