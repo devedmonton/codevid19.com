@@ -30,4 +30,6 @@ Ben gave us awesome tips on how to make the best of a Hackathon and has made his
 
 Wise words, Ben. Hackathons can always be for fun, and even if your project isn't "finished", take some time to submit what you and your team should be proud of. You never know, judges might love it!
 
+Speaking of submissions, there's only a few days left to [submit your project](https://forms.gle/xdPjMNmmoa7Qu4bQ6) for the [Final Competition](https://codevid19.com/policies/rules#final-competition)!
+
 [Watch Ben's fireside chat here.](https://drive.google.com/file/d/10dwmVjikk5xBmI_E7R_GR5DwQLcpYgST/view?usp=sharing)
