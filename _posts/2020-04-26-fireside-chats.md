@@ -1,6 +1,6 @@
 ---
 author: Mandy
-title: Fireside chats - winning hackathons and meeting an ER doctor
+title: "Fireside Chats: Meeting an ER Doctor and Winning Hackathons"
 ---
 
 During the hackathon, we had the wonderful opportunity of hosting talks by the following experts:
