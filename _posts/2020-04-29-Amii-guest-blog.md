@@ -2,6 +2,8 @@
 author: John
 title: "The Power of Community: Amii Supports CODEVID-19"
 ---
+<span class="image left"><img src="/images/blog/Amii-colour-logo.png" alt="Amii-logo"></span>
+
 The [Alberta Machine Intelligence Institute (Amii)](http://www.amii.ca) is proud to be a supporter of high-impact, community-driven initiatives like CODEVID-19. 
 
 “CODEVID-19 has demonstrated the powerful role community plays in innovation,” says Warren Johnston, Managing Director of Community Engagement at Amii. “Over the past six weeks, we've seen some fantastic collaborations that have sparked some big ideas and interesting solutions to the many challenges facing the world as a result of the global pandemic.”
