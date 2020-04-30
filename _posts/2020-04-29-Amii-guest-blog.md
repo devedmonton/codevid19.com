@@ -2,7 +2,9 @@
 author: John
 title: "The Power of Community: Amii Supports CODEVID-19"
 ---
+
 The [Alberta Machine Intelligence Institute (Amii)](http://www.amii.ca) is proud to be a supporter of high-impact, community-driven initiatives like CODEVID-19.
+
 <span class="image left"><img src="/images/blog/Amii-colour-logo.png" alt="Amii-logo"></span>
 
 
