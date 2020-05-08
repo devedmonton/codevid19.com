@@ -3,17 +3,6 @@ layout: default
 title: Submitting Your Project
 ---
 
-<ul class="actions fit">
-  <li>
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLScWF9MhqdeMavKlrW77RXGW1upHgNc61wHMIoLkOOTb9soaGA/viewform?usp=sf_link"
-      class="button primary fit icon solid fa-external-link-alt"
-      target="_blank"
-    >
-      Final Submission is Open!
-    </a>
-  </li>
-</ul>
-
 ## Deliverables
 
 The following are all **required** unless stated otherwise.
