@@ -41,7 +41,7 @@ The seven entrants in the *Understanding the Pandemic* category worked to improv
 
 ## Social Distance and Isolation
 
-From working at home, assisting the elderly and others at need, and entertaining and educating our children, few parts of the pandemic more broadly impact society than the effects of social isolation. Projects in this category seek to mitigate the impact associated with the disruption to our society, and ensure that we’re ready to pick up where we left off when we come back together.
+From working at home, assisting the elderly and others in need, and entertaining and educating our children, few parts of the pandemic more broadly impact society than the effects of social isolation. Projects in this category seek to mitigate the impact associated with the disruption to our society, and ensure that we’re ready to pick up where we left off when we come back together.
 
 ### Runner up: Vox of Life
 
