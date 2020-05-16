@@ -1,15 +1,15 @@
 ---
 author: John
-title: Congratulations Winners of the Codevid-19 Global Hackathon!
+title: Congratulations Winners of the CODEVID-19 Global Hackathon!
 ---
 
-We’re finally here, after an incredible amount of lightning speed and high intensity collaboration, feverish coding, massive organizational support, and generous sponsorship from our technology and media sponsors .  It takes a global village to create something like this; thank you all for making Codevid-19 a success. 
+We’re finally here, after an incredible amount of lightning speed and high intensity collaboration, feverish coding, massive organizational support, and generous sponsorship from our technology and media sponsors.  It takes a global village to create something like this; thank you all for making CODEVID-19 a success. 
 
 CODEVID-19 started in Edmonton, Canada when a group of programmers from the Dev Edmonton Society wanted to make a difference while stuck at home during the lockdown.  Edmonton is a city of just over a million people, and while oil is our main economic driver, we have a flourishing technology sector too.
 
 The idea for a virtual hackathon was born and it quickly spread from Edmonton to Toronto, the United States, Europe and the rest of the world. Over the past six weeks more than 1,800 people from 24 countries on 6/7 continents have participated.
 
-Together they built over 60 projects to help mitigate the effects of increased domestic violence, visualize the spread of COVID-19, help consumers understand what’s in stock near them, or manage the toll of social isolation by connecting with someone for a meaningful and spontaneous conversation. 
+Together they built over 60 projects to help mitigate the effects of increased domestic violence, visualize the spread of COVID-19, help consumers understand what’s in stock near them, or manage the toll of social isolation by connecting with someone for a meaningful and spontaneous conversation.
 
 We are very pleased to announce the winners in all five categories:
 
