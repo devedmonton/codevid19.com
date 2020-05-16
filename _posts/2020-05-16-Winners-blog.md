@@ -63,7 +63,7 @@ Economics is the study of scarcity, and during this pandemic we have struggled t
 
 [*foodsearchinc.com*](https://foodsearchinc.com/) is a directory of local food businesses that are offering pickup & delivery due to the restrictions placed on dining in. Our directory allows businesses to be visible and reach their customers who want to support local businesses. You can hear what they have to say about it [here](https://youtu.be/bHwvUGy8dIA).
 
-### People's Choice Winner: Covetrace
+## People's Choice Winner: Covetrace
 
 Our people's choice winner was declared after more than 1000 people cast votes, and we are happy to announce that [Covetrace](https://www.youtube.com/watch?v=PAdAVtBCzAA&feature=youtu.be) our runner up from the Understanding the Pandemic category are the winners.
 
