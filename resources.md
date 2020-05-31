@@ -11,6 +11,9 @@ Looking for computing power, data storage or other tools and
 services to power your project? Here's some services being offered
 for free to anyone combatting COVID-19!
 
+[Here is a doc](./CODEVID19-WhatToDoNext.pdf) that outlines a HUGE array of free things for you. There are other hackathons, matchathons (where they match hackathon winners with investors), other tech communities, newsletters and subscriptions and even a list of free resources at your disposal. 
+
+
 ## FaunaDB
 
 [FaunaDB](https://fauna.com/) is a serverless cloud
